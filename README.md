@@ -118,6 +118,96 @@ Arriba de lo determinado
 ### ANIEI: 22.5% 
 Muy por debajo de lo determinado
 ### Tratamiento de información: 10.2% 
+---
+## Objetivo del programa 
+---
+### UADY 
+
+Formar profesionales en el proceso de desarrollo y la evolución de sistemas de software a pequeña y gran escala, que solucionen problemas dentro de diferentes áreas de concentración, utilizando las herramientas adecuadas para optimizar los recursos de tiempo y costo, con apego a la ética profesional. 
+
+### UTM 
+
+La carrera de Ingeniería en Desarrollo y Gestión de Software busca formar estudiantes competentes a nivel de Técnico Superior Universitario e Ingeniería desarrollando nuevos conocimientos y habilidades en el uso de las tecnologías que contribuyan a solucionar problemáticas dentro de los sectores educativos, productivos y sociales. 
+
+---
+## Conocimientos tecnicos 
+---
+### UADY 
+
+- Explique y aplique un proceso de desarrollo de software sistémico acorde a la magnitud y complejidad de proyectos de aplicación, sean o no éstos nuevos desarrollos, tomando en cuenta la evolución y el cambio de los mismos. 
+
+- Describa y aplique las herramientas necesarias para la especificación, diseño, verificación y validación de sistemas de software. 
+
+- Se desempeñe en al menos un área de concentración, trabaje y se comunique de forma profesional en equipos interdisciplinarios. 
+
+- Aplique el conocimiento y las habilidades para mejorar el proceso de desarrollo de software. 
+
+- Contribuya al avance de la Ingeniería de Software con un acervo de conocimientos tanto teóricos como prácticos.
+
+---
+### UTM 
+
+- Formar profesionistas capaces de analizar, diseñar y mejorar estrátegicamente proyectos de sistemas de software mediante la aplicación de procesos, modelos, herramientas, y estándares de calidad en su desarrollo, además de promover la competitividad dela industria del software asumiendo una actitud ética de colaboración y responsabilidad social en un contexto globalizado y un ambiente interdisciplinario. 
+
+- La carrera de Desarrollo y Gestión de Software, especializa a sus alumnos bajo las más altas normas de calidad en el mercado laboral nacional e internacional para ser capaces de realizar análisis y diseño de sistemas de información, administradores y gestores de bases de datos, creadores, implementadores y administradores de redes de área local, metropolitana y mundial. 
+
+- Ser capaces de usar herramientas y paquetes de cómputo, científicos, técnicos y administrativos, capaces de programar en los diversos lenguajes y ambientes más utilizados en la actualidad además son capaces de administrar y crear redes de sistemas de información. 
+
+ ---
+
+## 2 similitudes  
+
+- Las 2 instituciones buscan formar profesionistas mediante la práctica del uso de herramientas del software, conforme la práctica y sea capaz de poder elaborar proyectos a pequeña y a gran escala, ser capaces de poder elaborar en un equipo y fomentar el liderazgo, administrar información y promover la competitividad. 
+
+- Contribuir al avance de la tecnología del software, todo de manera sistemática, buscando establecer las normas de calidad establecida para los proyectos, con el objetivo de insitar y promover el uso de las nuevas tecnologías mediante la utilización de estás herramientas  
+
+--- 
+
+## Otros aspectos relevantes 
+---
+
+### Universidad Tecnológica Metropolitana (UTM)  
+---
+
+### Costo 
+
+- Precio inscripción y reinscripción al cuatrimestre (Cuatrimestre 1- 6): $ 1,750 MXN. 
+
+- Cuota de inscripción y reinscripción al cuatrimestre (Cuatrimestre 6- 11): $ 1,850 MXN. 
+
+- Costo Total por Carrera: $19,250 MXN.
+ 
+### Relación con la industria 
+No se encontró información  
+
+### Certificaciones
+Las únicas certificaciones que se encontraron fueron en el idioma inglés y francés, ya que el apartado de certificaciones en su página web no tiene ninguna información.  
+
+### Especializaciones
+Especialidad en Ciberseguridad con duración de 3 cuatrimestres.  
+
+### Nivel de cumplimiento del programa
+Es funcional el programa, es decir, egresas con los conocimientos básicos que se requieren, sin embargo con solo 2 años de estudio no se logra ser un ingeniero, de hecho egresan como técnico superior universitario y si desean egresar como Ingenieros deben estudiar 1 año y ocho meses más, pero no es obligatorio y por ende no todos los alumnos deciden continuar, egresando de esta forma con un perfil incompleto de Ingeniero en Software.  
+
+## Universidad Autónoma de Yucatán (UADY)  
+---
+### Costo
+
+- Cuota de Inscripción:  $1,600.00 pesos, contará con la exención de un 50%, como medida extraordinaria en el contexto de la pandemia por COVID-19, por lo tanto, la cuota para este semestre es de $800.00 pesos. 
+
+- Costo Total por Carrera:  $14,400 (sin descuento por los 9 semestres) 
+
+### Relación con la industria
+A la fecha tienen más de 20 industrias del área afiliadas a este sector y constantemente solicitan especialistas de software para cubrir las necesidades para el desarrollo de los proyectos que adquieren tanto a nivel local, nacional e internacional. 
+
+### Certificaciones
+Webmaster Uady, donde se imparten cursos por las instituciones lideres de la industria a nivel mundial, sin costo alguno y con certificación. 
+
+### Especializaciones 
+Especialidad en Estadística con duración de 1 a 2 años. 
+
+### Nivel del cumplimiento del programa
+Tiene un buen cumplimiento del programa que se encarga de formar ingenieros con una capacidad de resolución más que el promedio, de ahí viene el tener más asignaturas referente al pensamiento como lo son las matemáticas, y todo esto sin dejar de lado los requerimientos y conocimientos que pide el programa. Los alumnos egresado estan preparados para cualquier situación y condición que se les presente.  
 ### ANIEI: 20% 
 Muy por debajo de lo determinado
 ### Interacción hombre máquina: 13.2% 
