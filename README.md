@@ -1,6 +1,6 @@
 
 # Comparativa sintética de programas de Ingeniería de Software
-[https://www.canva.com/design/DAFuu2-OURk/VQ9Mc7lyEBAjTyzHlRKnlw/edit?utm_content=DAFuu2-OURk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://)
+https://www.canva.com/design/DAFuu2-OURk/VQ9Mc7lyEBAjTyzHlRKnlw/edit?utm_content=DAFuu2-OURk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Evidencia de la promoción de habilidades blandas respecto al programa de estudio
 ---
 ## UADY
