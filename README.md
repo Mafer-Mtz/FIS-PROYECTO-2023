@@ -78,45 +78,53 @@ En los últimos semestres, las materias impartidas se enfocan mucho más en la a
 - interacción humano computadora
 ---
  ## PORCENTAJE: 1000= 37 materias
-### Entorno social:125 según ANIEI
-### FMAT entorno social: 54.5
-### Matemáticas: 125 según ANIEI
-### FMAT matemáticas:243
-### Arquitectura de compus: 75 según ANIEI
-### FMAT arquitectura de compus: 27
-### Redes: 75 según ANIEI
-### FMAT redes:27
-### Software de base: 75 según ANIEI
-### FMAT software base: 27
-### Programación e ing en software: 225 según ANIEI
-### FMAT programación en ing en software: 540
-### Tratamiento de información: 200 según ANIEI
-### FMAT tratamiento de información: 54
-### Interacción hombre máquina: 100 según aniei
-### FMAT interacción hombre máquina: 27
+### Entorno social:
+125 según ANIEI
+FMAT entorno social: 54.5
+### Matemáticas: 
+125 según ANIEI
+FMAT matemáticas:243
+### Arquitectura de compus: 
+75 según ANIEI
+FMAT arquitectura de compus: 27
+### Redes: 
+75 según ANIEI
+FMAT redes:27
+### Software de base:
+75 según ANIEI
+FMAT software base: 27
+### Programación e ing en software:
+225 según ANIEI
+FMAT programación en ing en software: 540
+### Tratamiento de información:
+200 según ANIEI
+FMAT tratamiento de información: 54
+### Interacción hombre máquina: 
+100 según aniei
+FMAT interacción hombre máquina: 27
 
 ## UTM 
 ---
 ### Áreas de conocimiento 
 ---
 ### Entorno Social: 27.9% 
-### ANIEI: 12.5% 
+ANIEI: 12.5% 
 Muy por arriba de lo
 determinado
 ### Matemáticas:7.3%
-### ANIEI: 12.5% 
+ ANIEI: 12.5% 
 Debajo de lo determinado
 ### Arquitectura de computadoras: 10.2% 
-### ANIEI: 7.5% 
+ANIEI: 7.5% 
 Arriba lo determinado
 ### Redes: 11.7% 
-### ANIEI: 7.5%
+ANIEI: 7.5%
 Arriba con lo determinado
 ### Software de base: 8.82% 
-### ANIEI: 7.5% 
+ ANIEI: 7.5% 
 Arriba de lo determinado
 ### Programación e ING. De software: 10.2% 
-### ANIEI: 22.5% 
+ANIEI: 22.5% 
 Muy por debajo de lo determinado
 ### Tratamiento de información: 10.2% 
 ---
