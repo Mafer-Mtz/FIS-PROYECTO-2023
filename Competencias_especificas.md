@@ -4,4 +4,6 @@ El desarrollo de Aplicaciones Móviles: dominio de los lenguajes de programació
 Comprensión de las mejores prácticas de seguridad para proteger la información y datos sensibles de los usuarios, habilidad para integrar APIs (Application Programming Interfaces) de servicios externos, como sistemas de pago, autenticación, notificaciones push, etc. la habilidad para integrar APIs (Application Programming Interfaces) de servicios externos, como sistemas de pago, autenticación y notificaciones push. una  capacidad para implementar sistemas de registro y autenticación de usuarios, así como la gestión de perfiles y roles.
 una familiaridad con metodologías ágiles de desarrollo, como Scrum o Kanban, para una gestión eficiente del proyecto.
 
+
+
 Habilidad para realizar pruebas exhaustivas y depurar la aplicación para asegurarse de que funcione correctamente y sin errores, un conocimiento sobre cómo optimizar el rendimiento de la aplicación para garantizar una experiencia fluida y rápida y por último, conciencia sobre la importancia de mantener la aplicación actualizada con nuevas funcionalidades y correcciones de errores.
