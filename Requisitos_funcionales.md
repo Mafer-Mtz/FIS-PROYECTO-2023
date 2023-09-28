@@ -10,16 +10,6 @@
     
 -   Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender
     
--   Implementar un proceso de verificación de identidad y la presentación de documentos relevantes cuando sea necesario.
-    
--   Ofrecer a los usuarios la posibilidad que puedan crear listas de productos favoritos para facilitar futuras compras
-    
--   Compatibilidad multiplataforma tanto para pc como celulares
-    
--   Listas o catálogo de productos que se deseen vender
-    
--   Crear un control de calidad del producto del vendedor para que pueda ser aprobado en la venta
-    
--   Que el usuario pueda elegir su métodos de pago (paypal, tarjeta de débito/crédito, efectivo, etc)
+
 
  
