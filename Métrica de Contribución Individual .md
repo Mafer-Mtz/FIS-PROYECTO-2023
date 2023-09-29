@@ -36,5 +36,5 @@
 | Ricardo Vargas  | 5 | 12.12% |
 | Totales  | 40 | 100%  | 
 
-
+![](https://hackmd.io/_uploads/Skhxu0Xgp.jpg)
 
