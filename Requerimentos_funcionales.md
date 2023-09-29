@@ -1,6 +1,6 @@
 # Requisitos funcionales
 
--   Manejo de usuarios: Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados, permitiendo la modificación de estos así como su información de contacto (correo, número de cel, etc). 
+-   Manejo de usuarios: Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados, permitiendo la modificación de estos así como su información de contacto (correo, número de cel, etc), siendo el correo institucional una forma exclusiva de verificar su identidad como vendedores. 
     
 -   Comunicación: Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor.
     
