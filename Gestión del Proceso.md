@@ -10,12 +10,18 @@
 | 22/09/2023 | Reparto de actividades| Se presentaron las partes del proyecto, como este se dividía y el puntaje que recibiría cada actividad. Partiendo de ahí se asignó a cada integrante su parte correspondiente, ya sabiendo su valor en puntos. Al finalizar la reunión el listado fue enviado por WhatsApp. |
 | 27/09/2023  | Organización del Vídeo | Se propuso el formato de la presentación y quienes van a hacer su aparición en el vídeo. Se decidió que los de menor porcentaje podrían participar, al igual que si alguien estaba interesado en aportar podría hacerlo sin problema alguno.    |
 
-# Organización de Entregas Por cada Integrante
+ # Herramientas de Monitoreo
 ---
+Board: Utilizamos una herramienta que el mismo github nos ofrece, que son los boards de proyectos. Para ver el progreso que teníamos en general con base al proyecto. Dónde cada integrante podía mover las tareas asiganadas de acuerdo a el tiempo en el que se organizara en su desempeño individual, así cuando decidieramos revisar el board podíamos ver como ibamos en la conclusión de tareas/ actividades.
+
+Reuniones: Nos reunimos de una a dos veces por semana, dependiendo de la disponibilidad del equipo. En esas reuniones siempre se comentaba el proceso de avance que cada uno tenía con sus tareas asignadas,  de igual forma si alguien tenía alguna duda referente a su parte, ahi mismo se le aclaraba. 
+
 A todos los integrantes la asignación de actividades, formalmente, se les hizo llegar el día 23 de Septiembre de 2023, con el acuerdo de que como máximo el día Miércoles 27 de Septiembre de 2023, todos  tuvieran sus documentos MD en un pull request como mínimo, en el cual se les harían observaciones que deberán cambiar en la brevedad posible, pudiendo haber más de una corrección. 
-Para el día 29 de Septiembre de 2023 el branch de "primera entrega" deberá estar en forma, ya que la entrega ddel trabajo es el día 30 de Septiembre de 2023 .
-Para la organización del Proyecto usamos un board de proyectos de github, para ver el progreso que teníamos en general con base al proyecto. 
-A continuación se muestra una tabla en la que se ven reflejados los tiempo de entrega de cada integrante; Individualmente se puede ver en sus perfiles personales en que mommento iniciaron su proceso de documentación. 
+
+Para el día 29 de Septiembre de 2023 el branch de "primera entrega" deberá estar en organizado, ya que la entrega del trabajo es el día 30 de Septiembre de 2023 .
+
+# Organización de Entregas de Cada Integrante 
+-------------------
 
 | Colaborador | Fecha de Asignación| Fecha de Entrega de Pull Request |
 | -------- | -------- | -------- |
@@ -23,6 +29,6 @@ A continuación se muestra una tabla en la que se ven reflejados los tiempo de e
 | Juan Che| 23/09/2023| -------- |
 | Brian Manzanilla  | 23/09/2023  | 27/09/2023  Cambios: 28/09/2023  |
 | María Martínez | 23/09/2023 | 27/09/2023  Cambios 27/09/2023 , 28/09/2023 
-| Raymundo Pexch | 23/09/2023  | 27/09/2023  Cambios: 27/09/2023 y 28/09/2023 |
+| Raymundo Pech | 23/09/2023  | 27/09/2023  Cambios: 27/09/2023 y 28/09/2023 |
 | Ricardo Vargas  | 23/09/2023  | 25/09/2023  Cambios: 26/09/2023 y 28/09/2023|
 
