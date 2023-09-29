@@ -1,3 +1,5 @@
+# Tabla de Asignaciones
+--------
 | Asignación | Colaborador| Puntaje |
 | -- | -------- | -------- |
 | Descripción del producto | Brian Manzanilla  | 3   |
@@ -20,12 +22,15 @@
 | Creación de logo | Raymundo Pech  | 2    |
 | | Total | 42 |
 
-### Manejo del Puntaje
+# Manejo del Puntaje
+-----
 * 1= Bajo 
 * 2= Medio
 * 3= Alto 
 
-## Porcentaje de Contribución 
+## Porcentaje de Contribución
+------
+
 | Colaborador | Puntos | Porcentaje|
 | -------- | -------- | -------- |
 | Irad Canche  | 8 | 19.04%  |
@@ -36,5 +41,8 @@
 | Ricardo Vargas  | 5 | 12.12% |
 | Totales  | 40 | 100%  | 
 
-![](https://hackmd.io/_uploads/Skhxu0Xgp.jpg)
+#Gráfico Demostrativo 
+--------------------------------------
+![Favorite-Fruits-Pie-Chart-Square](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/assets/143520257/cdf1f2b5-2fdb-49de-a773-844ca35fd1ba)
+
 
