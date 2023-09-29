@@ -2,7 +2,7 @@
 ----------
 ![U (2)](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/assets/143569827/60b6112f-249c-4672-9c29-30e5b7acc78c)
 
-# Roles Del Equipo
+## Roles Del Equipo
 
 **Product Owner:** María Martínez 
 
@@ -20,16 +20,16 @@
 -Ricardo Vargas
 
 
-# Producto 
+## Producto 
 -------
 
-# Usuarios/ Clientes 
+## Usuarios/ Clientes 
 ----------
 
-# Propuesta de Valor 
+## Propuesta de Valor 
 ---------
 
-# Requerimientos  
+## Requerimientos  
 
 | Requerimientos Funcionales | Requerimientos No Funcionales  |
 |--|--|
@@ -41,13 +41,13 @@
 |  |  |
 |  |  |
 
-# Descripción del Proceso 
+## Descripción del Proceso 
 -------
 
-# Presentación del Avance 
+## Presentación del Avance 
 --------
 
-# Competencias 
+## Competencias 
 ----
 **Competencias Génericas:** 
 
