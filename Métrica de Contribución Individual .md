@@ -17,7 +17,8 @@
 | Edición del Vídeo | Irad Canche  | 3 |
 | Competencias Génericas   | Ricardo Vargas  | 2    |
 | Competencias Específicas | Raymundo Pech | 2 |
-| | Total | 40 |
+| Creación de logo | Raymundo Pech  | 2    |
+| | Total | 42 |
 
 ### Manejo del Puntaje
 * 1= Bajo 
@@ -27,12 +28,12 @@
 ## Porcentaje de Contribución 
 | Colaborador | Puntos | Porcentaje|
 | -------- | -------- | -------- |
-| Irad Canche  | 8 | 20%  |
-| Juan Che | 7 | 17.5% |
-| Brian Manzanilla | 8 | 20% |
-| María Martínez  | 7 | 17.5%   |
-| Raymundo Pech | 5 | 12.5% |
-| Ricardo Vargas  | 5 | 12.5% |
+| Irad Canche  | 8 | 19.04%  |
+| Juan Che | 7 | 16.6% |
+| Brian Manzanilla | 8 | 19.04% |
+| María Martínez  | 7 | 16.6%   |
+| Raymundo Pech | 7 | 16.6% |
+| Ricardo Vargas  | 5 | 12.12% |
 | Totales  | 40 | 100%  | 
 
 
