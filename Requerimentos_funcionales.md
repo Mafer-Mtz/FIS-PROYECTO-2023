@@ -8,7 +8,7 @@
     
 -   Permitir a los usuarios calificarse entre sí y dejar reseñas sobre productos adquiridos
     
--   Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender
+-   Posibilidad de publicar fotos, descripciones y precios del producto que se busque vender
     
 
 
