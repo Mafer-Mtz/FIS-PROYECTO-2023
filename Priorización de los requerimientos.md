@@ -20,8 +20,9 @@ Requerimientos funcionales
 | Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender | 5 | Must |-Porque es necesario tanto conocer lo que posiblemente se compre, como exhibir un producto a vender. -Porque es la forma en que alguien se puede interesar en adquirir un producto. -Porque de esta forma la plataforma se vuelve útil para compra y venta.-Porque así es como los usuarios pueden tener interés en usarla. |
 
 Requisitos no funcionales
-| -------- | -------- | -------- | -------- |
+
 | Requisito | Votación | Moscow |Cinco “porques” |
+| -------- | -------- | -------- | -------- |
 | Mejoras de accesibilidad | 4 | Could | |
 | Exclusividad universitaria | 5 | Would | -Porque los usuarios prefieren ver publicaciones específicas a sus necesidades. -Porque así ahorran tiempo. |
 | Supervisión de productos ilícitos | 3 | Should| -Porque los desarrolladores quieren evitar que su producto se vea inmiscuido en cualquier actividad ilegal. -Porque puede crear problemas legales y de seguridad en desarrolladores y usuarios. |
