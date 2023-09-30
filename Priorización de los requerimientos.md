@@ -14,17 +14,20 @@ Hemos escogido 3 métodos de priorización de requerimientos. Generalmente con u
 
 | Requisito | Votación | Moscow | Cinco “porques” |
 | -------- |  :---: |  :---: | -------- |
-| Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados | 4 | Must | <ul><li>Porque los usuarios necesitan tener una identidad.</li><li>Porque necesitan ser identificados por otros usuarios, especialmente en el vínculo comprador-vendedor. |
-| Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor | 3 | Could |<ul><li>Porque los compradores y vendedores necesitan comunicarse entre sí. </li><li>Porque necesitan concretar el lugar y hora de la compra/venta |
-| Permitir la modificación de usuarios, así como la confirmación de datos de contacto (correo, número de teléfono, etc.) | 2 | Could | <ul><li>Porque así se crea una reputación acerca de los vendedores. </li><li>Porque da información acerca de qué tan confiable es un vendedor. </li><li>Porque se debe promover que los buenos vendedores tengan visibilidad en la plataforma. </li><li>Porque esto hace útil a la aplicación como fuente de referencia. |
-| Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender | 5 | Must | <ul><li>Porque es necesario tanto conocer lo que posiblemente se compre, como exhibir un producto a vender. </li><li>Porque es la forma en que alguien se puede interesar en adquirir un producto.</li><li>Porque de esta forma la plataforma se vuelve útil para compra y venta.</li><li>Porque así es como los usuarios pueden tener interés en usarla. |
+| Manejo de usuarios: Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados | 5 | Must | <ul><li>Porque los usuarios necesitan tener una identidad.</li><li>Porque necesitan ser identificados por otros usuarios, especialmente en el vínculo comprador-vendedor. |
+| Comunicación: Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor | 1 | Would |<ul><li>Porque los compradores y vendedores necesitan comunicarse entre sí. </li><li>Porque necesitan concretar el lugar y hora de la compra/venta |
+| Retroalimentación activa: Permitir a los usuarios calificarse entre sí y dejar reseñas sobre productos adquiridos | 2 | Could |<ul><li>Porque la información en cuanto a la calidad de las ofertas y confiabilidad de los vendedores ayuda al usuario a decidir|
+| Publicaciones: Posibilidad de subir fotos, descripciones y precios del producto que se busque vender.| 6 | Must |<ul><li>Porque es necesario conocer lo que posiblemente se compre, así como tener un medio para publicitar un producto </li><li>Porque es la forma en que alguien se puede interesar en adquirir un producto. </li><li>Porque de esta forma la plataforma se vuelve útil para compra y venta. </li><li>Porque así es como las personas pueden llegar a tener interés en usarla. |
+| Organización de publicaciones: Manejo de organización de publicaciones de acuerdo a relevancia de productos. | 3 | Should |<ul><li>Porque los usuarios prefieren ver publicaciones actuales y que le hayan sido útiles a otros.</li><li>Porque así ahorran tiempo y mejoran sus posibilidades de hacer una buena compra. |
+| Compatibilidad: Tipo de dispositivos compatibles de acuerdo a nuestra aplicación siendo en este caso para dispositivos móviles. | 4 | Should | <ul><li>Porque son el tipo de dispositivo ideal para búsquedas, en cualquier momento.</li><li>Porque los teléfonos celulares son muy utilizados, las personas los llevan a todos lados. </li><li>Porque esto es fundamental, ya que necesitamos que la aplicación esté a la mano de los usuarios. |
+
 
 ## Requerimientos no funcionales
 
-| Requisito | Votación | Moscow |Cinco “porques” |
+| Requisito | Votación | Moscow | Cinco “porques” |
 | -------- |  :---: |  :---: | -------- |
-| Mejoras de accesibilidad | 4 | Could | |
-| Exclusividad universitaria | 5 | Would | <ul><li>Porque los usuarios prefieren ver publicaciones específicas a sus necesidades. </li><li>Porque así ahorran tiempo. |
+| Mejoras de accesibilidad | 2 | Should | <ul><li>Porque la información en cuanto a la calidad de las ofertas y confiabilidad de los vendedores ayuda al usuario a decidir  |
 | Supervisión de productos ilícitos | 3 | Should| <ul><li>Porque los desarrolladores quieren evitar que su producto se vea inmiscuido en cualquier actividad ilegal. </li><li>Porque puede crear problemas legales y de seguridad en desarrolladores y usuarios. |
-| Protección de datos | 1 | Must | <ul><li>Porque la información personal debe ser confidencial. </li><li>Porque de no ser así se pone en peligro la integridad de los usuarios. |
-| Actualización constante de la página | 2 | Must | <ul><li>Porque la plataforma debe mantenerse vigente. </li><li>Porque la información que contiene debe ser útil en el momento que se visualiza. |
+| Protección de datos | 5 | Must | <ul><li>Porque la información personal debe ser confidencial. </li><li>Porque de no ser así se pone en peligro la integridad de los usuarios. |
+| Actualización constante de la página | 4 | Must | <ul><li>Porque la plataforma debe mantenerse vigente. </li><li>Porque la información que contiene debe ser útil en el momento que se visualiza. |
+| Moderación del lenguaje en las reseñas | 1 | Could | <ul><li>Porque se debe fomentar un ambiente de cordialidad y respeto.</li><li>Porque de no ser así el contenido de la plataforma puede volverse ofensivo. |
