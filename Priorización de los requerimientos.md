@@ -10,7 +10,7 @@ Moscow: Clasifica a los requerimientos en 4 categorías:
     would: puede ser pospuesto y sugerido para futura ejecución
 Cinco “porques”: Se argumenta el por qué de cada requerimiento, y a su vez, se prosigue con la argumentación del “por qué del por qué”. El nombre del método indica que se hace cinco veces, aunque esto no es obligatorio.
 
-Requerimientos funcionales
+## Requerimientos funcionales
 
 | Requisito | Votación | Moscow | Cinco “porques” |
 | -------- | -------- | -------- | -------- |
@@ -19,7 +19,7 @@ Requerimientos funcionales
 | Permitir la modificación de usuarios, así como la confirmación de datos de contacto (correo, número de teléfono, etc.) | 2 | Could |-Porque así se crea una reputación acerca de los vendedores. -Porque da información acerca de qué tan confiable es un vendedor. -Porque se debe promover que los buenos vendedores tengan visibilidad en la plataforma.-Porque esto hace útil a la aplicación como fuente de referencia. |
 | Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender | 5 | Must |-Porque es necesario tanto conocer lo que posiblemente se compre, como exhibir un producto a vender. -Porque es la forma en que alguien se puede interesar en adquirir un producto. -Porque de esta forma la plataforma se vuelve útil para compra y venta.-Porque así es como los usuarios pueden tener interés en usarla. |
 
-Requisitos no funcionales
+## Requisitos no funcionales
 
 | Requisito | Votación | Moscow |Cinco “porques” |
 | -------- | -------- | -------- | -------- |
