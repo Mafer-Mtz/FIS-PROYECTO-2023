@@ -1,2 +1,0 @@
-## Presentación (Guión)
-
