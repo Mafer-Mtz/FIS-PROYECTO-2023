@@ -13,7 +13,7 @@ Cinco “porques”: Se argumenta el por qué de cada requerimiento, y a su vez,
 ## Requerimientos funcionales
 
 | Requisito | Votación | Moscow | Cinco “porques” |
-| -------- | -------- | -------- | -------- |
+| -------- |  :---: |  :---: | -------- |
 | Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados | 4 | Must | -Porque los usuarios necesitan tener una identidad. -Porque necesitan ser identificados por otros usuarios, especialmente en el vínculo comprador-vendedor. |
 | Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor | 3 | Could |-Porque los compradores y vendedores necesitan comunicarse entre sí. -Porque necesitan concretar el lugar y hora de la compra/venta |
 | Permitir la modificación de usuarios, así como la confirmación de datos de contacto (correo, número de teléfono, etc.) | 2 | Could |-Porque así se crea una reputación acerca de los vendedores. -Porque da información acerca de qué tan confiable es un vendedor. -Porque se debe promover que los buenos vendedores tengan visibilidad en la plataforma.-Porque esto hace útil a la aplicación como fuente de referencia. |
@@ -22,7 +22,7 @@ Cinco “porques”: Se argumenta el por qué de cada requerimiento, y a su vez,
 ## Requisitos no funcionales
 
 | Requisito | Votación | Moscow |Cinco “porques” |
-| -------- | -------- | -------- | -------- |
+| -------- |  :---: |  :---: | -------- |
 | Mejoras de accesibilidad | 4 | Could | |
 | Exclusividad universitaria | 5 | Would | -Porque los usuarios prefieren ver publicaciones específicas a sus necesidades. -Porque así ahorran tiempo. |
 | Supervisión de productos ilícitos | 3 | Should| -Porque los desarrolladores quieren evitar que su producto se vea inmiscuido en cualquier actividad ilegal. -Porque puede crear problemas legales y de seguridad en desarrolladores y usuarios. |
