@@ -19,7 +19,7 @@ Hemos escogido 3 métodos de priorización de requerimientos. Generalmente con u
 | Permitir la modificación de usuarios, así como la confirmación de datos de contacto (correo, número de teléfono, etc.) | 2 | Could | <ul><li>Porque así se crea una reputación acerca de los vendedores. </li><li>Porque da información acerca de qué tan confiable es un vendedor. </li><li>Porque se debe promover que los buenos vendedores tengan visibilidad en la plataforma. </li><li>Porque esto hace útil a la aplicación como fuente de referencia. |
 | Posibilidad de agregar fotos, descripciones y precios del producto que se busque vender | 5 | Must | <ul><li>Porque es necesario tanto conocer lo que posiblemente se compre, como exhibir un producto a vender. </li><li>Porque es la forma en que alguien se puede interesar en adquirir un producto.</li><li>Porque de esta forma la plataforma se vuelve útil para compra y venta.</li><li>Porque así es como los usuarios pueden tener interés en usarla. |
 
-## Requisitos no funcionales
+## Requerimientos no funcionales
 
 | Requisito | Votación | Moscow |Cinco “porques” |
 | -------- |  :---: |  :---: | -------- |
