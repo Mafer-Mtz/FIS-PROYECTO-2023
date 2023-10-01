@@ -86,7 +86,7 @@ Scrum es un marco de trabajo ágil a través del cual las personas pueden aborda
 
 ## Presentación del Avance 
 --------
-
+https://youtu.be/9BP_V6_Uew0?si=91tgTDAAdJF_H7S9
 ## Competencias 
 ----
 **Competencias Génericas:** 
