@@ -2,24 +2,6 @@
 ----------
 ![U (2)](https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/assets/143569827/60b6112f-249c-4672-9c29-30e5b7acc78c)
 
-## Roles Del Equipo
-
-**Product Owner:** María Martínez 
-
-
-**Scrum Master :** Juan Che
-
-**Equipo de Desarollo:** 
-
--Irad Canche
-
--Brian Manzanilla
-
--Raymundo Pech
-
--Ricardo Vargas
-
-
 ## Producto 
 -------
 U-Sale es una aplicación móvil que fue pensada para mejorar la interacción comprador-vendedor que se da en los ambientes universitarios. El funcionamiento se basa en un sistema de bandeja que muestra los productos que se ofrecen en tiempo real, dando así al usuario la posibilidad de saber qué productos se están ofreciendo en el momento que realiza la búsqueda; este sistema de publicaciones se actualiza día con día para mostrar siempre las publicaciones más recientes, al mismo tiempo que las publicaciones con mayor antigüedad se van bajando de prioridad y/o borrando para evitar una sobrecarga de publicidad. Cuenta con un sistema de mensajería instantánea entre los usuarios, así como también información de los usuarios compradores y vendedores (nombre, facultad, grado de confianza, etc.) a fin de otorgar una forma de comunicación sencilla y efectiva. capaz de crear lazos comerciales. Para evitar las estafas o dudas en los usuarios, la aplicación implementa un sistema de reseñas y calificación del perfil; los usuarios podrán dejar comentarios con su opinión acerca del producto, vendedor o comprador según el grado de satisfacción que hayan tenido.
