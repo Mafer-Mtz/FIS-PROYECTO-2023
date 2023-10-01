@@ -18,11 +18,11 @@ Si bien se cuenta con la aplicación de WhatsApp como un impedimento para desarr
 
 | Requerimientos Funcionales | Requerimientos No Funcionales  |
 |--|--|
-|Manejo de usuarios: Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados, permitiendo la modificación de estos así como su información de contacto (correo, número de cel, etc.), siendo el correo institucional una forma exclusiva de verificar su identidad como vendedores.   |  |
-|Comunicación: Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor.  |  |
-|Retroalimentación activa: Permitir a los usuarios calificarse entre sí y dejar reseñas sobre productos adquiridos.   |  |
-|Publicaciones: Posibilidad de subir fotos, descripciones y precios del producto que se busque vender.   |  |
-|Organización de publicaciones: Manejo de organización de publicaciones de acuerdo a relevancia de productos.   |  |
+|Manejo de usuarios: Registro de nuevos usuarios y permitir el acceso a usuarios ya registrados, permitiendo la modificación de estos así como su información de contacto (correo, número de cel, etc.), siendo el correo institucional una forma exclusiva de verificar su identidad como vendedores.   | Mejoras de accesibilidad: Dar propuesta a los usuarios para usar nuestra app como mostrar a los vendedores los productos más vendidos, un inventario virtual, calificación de usuarios, e información del alumnado  |
+|Comunicación: Facilitar la comunicación en tiempo real a través de un sistema de chat en tiempo real con el vendedor.  |Supervisión de productos ilícitos: al crear la interfaz llevaremos un control y supervisión para buscar productos de prohibida distribución en el campus (alcohol, sustancias ilegales, actividades de aprendizaje, etc.) Con esto en mente, el usuario que rompa las nomás será sancionado con una restricción de uso de la app y se le comunicará a las autoridades escolares  |
+|Retroalimentación activa: Permitir a los usuarios calificarse entre sí y dejar reseñas sobre productos adquiridos.   | Protección de datos: los datos proporcionados son los necesarios (carrera universitaria, salones concurridos, número telefónico, facultad) y en caso de sufrir de acoso poder notificarlo a las autoridades escolares, brindando protección a los estudiantes |
+|Publicaciones: Posibilidad de subir fotos, descripciones y precios del producto que se busque vender.   |Actualización constante de la página: la página actualizará constantemente sus datos, así proporcionar la información de los artículos más vendidos, reseñas e inventarios, de manera puntual, borrando actualizaciones obsoletas con el objetivo de no sobrecargar la base de datos  |
+|Organización de publicaciones: Manejo de organización de publicaciones de acuerdo a relevancia de productos.   | Moderación del lenguaje en las reseñas: habrá una moderación del lenguaje en los comentarios, en caso de no cumplir las normas establecidas, el comentario será borrado |
 |Compatibilidad: Tipo de dispositivos compatibles de acuerdo a nuestra aplicación siendo en este caso para dispositivos móviles.  |  |
 
 
