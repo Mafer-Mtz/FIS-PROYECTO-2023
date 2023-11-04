@@ -1,6 +1,6 @@
 # Competencias genéricas
 
-La comunicación ha sido fundamental para el proyecto. En los daily scrum Meeting hemos necesitado comunicarnos de forma eficiente, clara, equitativa y respetuosa. Entendernos y compartir opiniones, experiencias, inquietudes e ideas nos ha permitido enriquecer y mejorar el trabajo, además de coordinarnos correctamente.
+La comunicación ha sido fundamental para el proyecto. En los Daily Scrum Meeting hemos necesitado comunicarnos de forma eficiente, clara, equitativa y respetuosa. Entendernos y compartir opiniones, experiencias, inquietudes e ideas nos ha permitido enriquecer y mejorar el trabajo, además de coordinarnos correctamente.
 
 Ligado a la comunicación podemos resaltar el trabajo en equipo. Ha sido importante ejercer liderazgo, en especial al ejecutar un rol en el equipo. Organizarnos y ser responsables nos ha permitido cumplir con nuestros avances en tiempo y forma; y hacer un trabajo coherente, cohesionado.
 
