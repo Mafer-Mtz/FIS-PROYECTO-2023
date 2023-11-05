@@ -38,5 +38,5 @@
 | María Martínez   | 11 | 23.91 |
 | Raymundo Pech | 7 | 15.21|
 | Ricardo Vargas | 5.5 |11.95 |
-| Total | 43 | 100% |
+| Total | 46 | 100% |
 
