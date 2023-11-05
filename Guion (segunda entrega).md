@@ -1,4 +1,4 @@
-## Guion
+## Guion (segunda entrega)
 ¿En qué consiste el proyecto?
 U-Sales consiste en una aplicación de comercio con índole universitaria, donde los vendedores se les permita poder emprender un negocio de venta de artículos, con el objetivo de poder aportar un sustento económico y/o ayuda monetaria para sus estudios.
 
