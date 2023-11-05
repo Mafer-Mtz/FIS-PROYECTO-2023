@@ -36,6 +36,8 @@ Semana 4: Organización
 
 #### Actividades y Responsables
 
+https://github.com/Mafer-Mtz/FIS-PROYECTO-2023/blob/d99f46258d8af8ce583bafc12fc7eb0fea286333/Tareas.md 
+
 
 #### Roles 
 
