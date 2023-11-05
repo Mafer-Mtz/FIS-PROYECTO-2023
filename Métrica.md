@@ -16,26 +16,27 @@
 | Diagrama de casos de uso | Juan Che, Brian Manzanilla, Ricardo Vargas | 3|
 | Casos de uso| Todos  | 3|
 | Bosquejo de Interfaces | Todos| 3|
-| Refinamiento de Requisistos|Todos  | 2 |
-| Correspondencia de requisistos  | ----    | 2  |
-| Validación de Interfaces | ----| 2 |
+| Refinamiento de Requisistos|Todos  | 3|
+| Correspondencia de requisistos  |    | 2  |
+| Validación de Interfaces | María Martínez| 2 |
 | Simulación de una tarea específica | -------- | 3 |
 | Proceso   | María Martínez   | 2   |
-| Aparición en vídeo | Raymundo Pech, Brian Manzanilla| 2 |
+| Aparición en vídeo |  Brian Manzanilla| 2 |
 | Vídeo | Irad Canche| 3 |
 | Competencias   | Juan Che , Ricardo Vargas   | 1  |
 | Organización | María Martínez | 3 |
 | Revisión de fases | Juan Che | 3 |
-| Total |  | 43 |
+| Guión | Raymundo Pech, Irad Canche  | 2 |
+| Total |  | 46 |
 
 
 | Responsable | Puntos | Porcentaje |
 | -------- | -------- | -------- |
-| Irad Canche | 4.8    | Text     |
-| Juan Che| 6.3 | Column 3 |
-| Brian Manzanilla | 3.8 | -------- |
-| María Martínez   | 8.8 | Text     |
-| Raymundo Pech | 6.8 | Column 3 |
-| Ricardo Vargas | 5.3 | -------- |
+| Irad Canche | 6   | 13.04  |
+| Juan Che| 6.5 | 14.13 |
+| Brian Manzanilla |5 | 10.86 |
+| María Martínez   | 11 | 23.91 |
+| Raymundo Pech | 7 | 15.21|
+| Ricardo Vargas | 5.5 |11.95 |
 | Total | 43 | 100% |
 
