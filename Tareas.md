@@ -12,8 +12,8 @@
 | Casos de uso| Todos  | 30-Oct-2023    |
 | Bosquejo de Interfaces | Todos|01-Nov-2023 |
 | Refinamiento de Requisistos|Todos  | 28-Oct-2023 |
-| Correspondencia de requisistos  | ----    | 29-Oct-2023    |
-| Validación de Interfaces | ----| 02-Nov-2023 |
+| Correspondencia de requisistos  | Brian Manzanilla  | 29-Oct-2023    |
+| Validación de Interfaces | María Martínez| 02-Nov-2023 |
 | Simulación de una tarea específica | -------- | 04-Nov-2023 |
 | Proceso   | María Martínez   | 03-Nov-2023     |
 | Aparición en vídeo | Raymundo Pech, Brian Manzanilla| 04-Nov-2023 |
