@@ -17,7 +17,7 @@
 | Casos de uso| Todos  | 3|
 | Bosquejo de Interfaces | Todos| 3|
 | Refinamiento de Requisistos|Todos  | 3|
-| Correspondencia de requisistos  |    | 2  |
+| Correspondencia de requisistos  |   Brian Manzanilla | 2  |
 | Validación de Interfaces | María Martínez| 2 |
 | Simulación de una tarea específica | -------- | 3 |
 | Proceso   | María Martínez   | 2   |
@@ -34,7 +34,7 @@
 | -------- | -------- | -------- |
 | Irad Canche | 6   | 13.04  |
 | Juan Che| 6.5 | 14.13 |
-| Brian Manzanilla |5 | 10.86 |
+| Brian Manzanilla |7 | 15.21 |
 | María Martínez   | 11 | 23.91 |
 | Raymundo Pech | 7 | 15.21|
 | Ricardo Vargas | 5.5 |11.95 |
