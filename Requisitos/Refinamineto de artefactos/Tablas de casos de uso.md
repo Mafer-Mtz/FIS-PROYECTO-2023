@@ -40,7 +40,7 @@
 --------------------------------------------------------------------------
 
 --------------------------------------------------------------------------
-|  **Requerimento**        |     **Comunicación por mensajeria instantanea **                   |                                                    
+|  **Requerimento**        |     **Comunicación por mensajeria instantanea**                   |                                                    
 |:--|--:|
 | **dependencias**                |Publicación de productos        
 | **Precondición**  | El usuario cliente está interesado en establecer o mantener comunicación directa con un usuario vendedor, que ha visto en las publicaciones de productos. |
