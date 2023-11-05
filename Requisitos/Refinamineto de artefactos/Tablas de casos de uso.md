@@ -1,8 +1,8 @@
 
 
-:-----
+
 |  **Requerimento**        |   **Interacción activa**                     |                                                    
-|:--|--:|
+|:--|:--|
 | **dependencias**                |        
 | **Precondición**  | El usuario registrado visualiza las publicaciones de los vendedores. |
 |   **Descripción**           | El usuario escribe una serie de caracteres en la publicación; el comentario se sube y termina el proceso.
@@ -23,9 +23,9 @@
 
 
 
---------------------------------------------------------------------------
+
 |  **Requerimento**        |     **El usuario utiliza el buscador**                   |                                                    
-|:--|--:|
+|:--|:--|
 | **dependencias**                |        
 | **Precondición**  | El usuario busca un producto en específico |
 |   **Descripción**           | El usuario accede al buscador, escribe un producto, el sistema analiza entre todas las publicaciones y le arroja el resultado obtenido.
