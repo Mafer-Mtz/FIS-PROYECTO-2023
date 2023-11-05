@@ -39,6 +39,20 @@ Semana 4: Organización
 
 #### Roles 
 
+Propietaria del producto: María Martínez
+
+Scrum Master: Juan Che
+
+Equipo de desarrollo: 
+
+* Brian Manzanilla
+
+* Ricardo Vargas 
+
+* Raymundo Pech
+
+* Irad Canche.
+
 
 
 
