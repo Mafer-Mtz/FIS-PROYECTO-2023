@@ -36,3 +36,4 @@ Publicación de productos:
 El usuario vendedor tendrá la opción de poder publicar sus artículos, después de su registro y con el objetivo de poder vender sus artículos.
 Nuestro proyecto fue avanzando con los requerimientos, de ahí pasamos a los wireframes, donde pasamos a maquetar todo el proceso y las herramientas que serán usadas para el proyecto, esto con el objetivo de llevar notas de los avances del proyecto, al igual que tomamos en cuenta todas las funcionalidades con las que contará la app.
 
+Link del video: https://drive.google.com/file/d/15Nc5S-BmSDFM_MLWGzM2XRGuGlbPvd4d/view?usp=drivesdk
