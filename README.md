@@ -4,6 +4,11 @@
 
 -----------------------
 
+## Vídeo segunda entrega 
+
+**Link**
+
+---------------------------------
 ## Evolución del proyecto
 Para avanzar en el proyecto realizábamos reuniones cada 3 días, donde nos poníamos de acuerdo sobre el desarrollo del proyecto, normalmente la hora de reunión era de 5:00 pm, durante este tiempo manejamos el proceso scrum para poder avanzar en el proyecto. Lo primero que hicimos fue analizar los requerimientos y modificarlos, adaptando a nuestras nuevas necesidades y metas, reduciendo la población de emprendedores e iniciando en una zona local como lo es la Universidad Autónoma de Yucatán, y de esta forma poner en marcha el proyecto.
 
