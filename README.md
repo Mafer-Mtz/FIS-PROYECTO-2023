@@ -4,6 +4,12 @@
 
 -----------------------
 
+# Diseño de interfaces 
+
+https://miro.com/app/board/uXjVNW36A98=/?share_link_id=571495787132
+
+-----------------------------
+
 ## Vídeo segunda entrega 
 
 **Link** https://drive.google.com/file/d/15Nc5S-BmSDFM_MLWGzM2XRGuGlbPvd4d/view?usp=drivesdk
