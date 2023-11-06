@@ -19,7 +19,7 @@
 | Refinamiento de Requisistos|Todos  | 3|
 | Correspondencia de requisistos  |   Brian Manzanilla | 2  |
 | Validación de Interfaces | María Martínez| 2 |
-| Simulación de una tarea específica | -------- | 3 |
+| Simulación de una tarea específica | Todos | 3 |
 | Proceso   | María Martínez   | 2   |
 | Aparición en vídeo |  Brian Manzanilla| 2 |
 | Vídeo | Irad Canche| 3 |
@@ -32,11 +32,11 @@
 
 | Responsable | Puntos | Porcentaje |
 | -------- | -------- | -------- |
-| Irad Canche | 6   | 13.04  |
-| Juan Che| 6.5 | 14.13 |
-| Brian Manzanilla |7 | 15.21 |
-| María Martínez   | 11 | 23.91 |
-| Raymundo Pech | 7 | 15.21|
-| Ricardo Vargas | 5.5 |11.95 |
+| Irad Canche | 6.5   | 14.13 |
+| Juan Che| 7 | 15.21 |
+| Brian Manzanilla |7.5 | 16.30 |
+| María Martínez   | 11.5 | 25|
+| Raymundo Pech | 7.5 | 16.30|
+| Ricardo Vargas | 6 |13.04 |
 | Total | 46 | 100% |
 
