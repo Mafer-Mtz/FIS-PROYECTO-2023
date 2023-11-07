@@ -1,9 +1,6 @@
 # Historias de usuario
 
-### Prioridad se mide del 1 al 5 
-
-### Estimaciones
-Son en base a nuestra poca experiencia y lo que creemos que puede llevar. 
+### Prioridad se mide del 1 al 5  
 
 ---------------------------
 
@@ -33,7 +30,7 @@ Son en base a nuestra poca experiencia y lo que creemos que puede llevar.
 
 **Número:** 2                             **Usuario:** Usuario Vendedor 
 
-**Nombre de historia:** Publicaciones del Uusario
+**Nombre de historia:** Publicaciones del Usario
 
 **Descripción:** Como universitario emprendedor quiero una herramienta en la que pueda publicitar los productos que llevo a vender a la facultad, en la cual mis publicaciones sean visualizadas por muchos de mis compañeros, para aumentar mis clientes, ventas y ganancias.
 
@@ -59,7 +56,7 @@ Son en base a nuestra poca experiencia y lo que creemos que puede llevar.
 
 **Nombre de historia:** Entregas Cercanas 
 
-**Descripción:** Me gustaría tener puntos de entrega accesibles para mí y mi horario, es decir en la facultad, ya que me ahorra tiempo y a la vez genero ingresos. 
+**Descripción:** Me gustaría tener puntos de entrega accesibles para mí y mi horario, es decir en la facultad, ya que me ahorra tiempo y  a la vez genero ingresos. 
 
 **Criterio de Validación:** 
 * Dar de alta a los usuarios vendedores
