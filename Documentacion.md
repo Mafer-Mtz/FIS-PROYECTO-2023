@@ -60,17 +60,20 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 ### Modelo de objeto de interfaz
 
 **1. Elaboración del lenguaje de patrones de interacción:**
+
 - analizar el modelo de casos de uso 
 - identificar los puntos de interacción usuario-aplicación 
 elaborar un lenguaje de patrones incluyendo nombre, problema, contexto, solución y consecuencia. 
 
 **2. Elaboración del Modelo Objeto de Interfaz:**
+
 - Elaboración del lenguaje de patrones de interacción:
 1. Se utiliza el modelo Objeto del Dominio como base.
 2. Se aplica la rectificación de objetos del dominio necesarios en la interfaz.
 3. Se crean nuevos objetos mediante la reificación de operaciones, y se define un instrumento de interacción para cada operación, actuando como mediador entre el usuario y el objeto en la interfaz.
 
 **3. Construcción del Prototipo de Interfaz de Usuario:**
+
 - Se basa en el análisis del Lenguaje de Patrones y el modelo Objeto de Interfaz.
 Dependiendo de cómo se expresan las soluciones en los patrones de interacción:
 - Si las soluciones son bosquejos de pantallas o descripciones, se crea un prototipo de baja fidelidad. Luego, se implementan las soluciones en un prototipo de alta fidelidad.
@@ -78,6 +81,7 @@ Dependiendo de cómo se expresan las soluciones en los patrones de interacción:
 
 
 **4. Modelo SSOA:**
+
 De acuerdo Schneiderman, B.,  El modelo Sintactico-semantico (SSOA) proporciona diferentes formas en las que un usuario pueda interactuar con un sistema. La diferencia entre las sintaxis y semántica se originó a través de la definición de compiladores separando la parte del análisis sintáctico siendo la parte del proceso de entrada de texto/comando de la parte semántica  siendo el proceso de interpretación. Los diseñadores igualmente pueden usar un modelo de sintáctico-semántico de acuerdo al conocimiento del usuario siendo el conocimiento sintáctico la comprensión de los detalles de los usos de los dispositivos, mientras que el semántico abarca información relacionada con la aplicación como el uso general de los sistemas interactivos.  
 
 Schneiderman, B. (1992). “El modelo Sintáctico-Semántico del conocimiento del usuario (SSOA) provee un marco de definición sobre las diferentes formas y grado de conocimiento que un usuario puede emplear al interactuar con un sistema. La distinción entre las sintaxis y semántica surgió a partir de la definición de compiladores, separando el proceso de compilación de la entrada de texto o comando, denominado análisis sintáctico, del proceso de interpretación del mismo, denominado análisis semántico. Los diseñadores de los sistemas interactivos también pueden contar con un modelo sintáctico semántico aplicado al conocimiento del usuario. Como se explicó en la fase de requerimientos, el conocimiento sintáctico se refiere al entendimiento de detalles dependientes al uso de los dispositivos. El conocimiento semántico incluye información conceptual concerniente a la aplicación -objetos y acciones del dominio de la tarea- y al uso general de los sistemas interactivos.”
