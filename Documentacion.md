@@ -98,7 +98,7 @@ En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos 
 
 Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
 
-**Definiciones:**
+### Definiciones
 
 **Seguridad de aplicaciones:** (AppSec) son los procesos, prácticas y herramientas que se utilizan para identificar, reparar y proteger contra vulnerabilidades en las aplicaciones, durante todo el ciclo de vida de desarrollo de software (SDLC). La seguridad de las aplicaciones implica una amplia gama de herramientas y metodologías, pero todas tienen el mismo objetivo: identificar debilidades y vulnerabilidades y corregirlas antes de que puedan ser explotadas. (Synopsis, s.f.).
 
@@ -125,9 +125,9 @@ En IS, la safety del código garantiza la confiabilidad. (Foster S. 2020).
  
 En IS, la security del código previene ataques. (Foster S. 2020).
 
-**Competencias**
+### Competencias
 
-Ingeniería de software incluye seguridad
+#### Ingeniería de software incluye seguridad
 Una cuestión a considerar por el estudiante de ingeniería de software, es si su disciplina incluye el dominio de competencias relacionadas a la seguridad. Como hemos mencionado anteriormente, la  ciberseguridad ya ha sido establecida como una disciplina por sí misma; por tanto, ¿Es necesario que el estudiante/profesionista de IS sea competente en eso? ¿Qué tan competente es mínimamente necesario que sea para poder desarrollar software y aplicaciones seguras? A la primera pregunta, podemos inferir que sí, es necesario que el desarrollador de software domine algo de seguridad de aplicaciones, pero ¿Qué tanto? En busca de información que conteste a la pregunta, vamos a los reportes de las asociaciones con autoridad sobre el tema, que han estandarizado definiciones e incluso competencias mínimas. En el reporte de IEEE-CS con ACM (2020), en la definición de ingeniería de software como disciplina se enuncia: El fuerte enfoque de la ingeniería de software es sobre el diseño de sistemas de software fiables, dignos de confianza, seguros y utilizables. . Los ingenieros a menudo se aplican a sistemas a gran escala con alta confiabilidad y requisitos de seguridad.(p.29). La definición menciona a la seguridad como una característica que debe tener el producto desarrollado por el ingeniero de software.
 
 La lista de las competencias
@@ -136,13 +136,13 @@ Para conocer las competencias que el ingeniero de software debe tener relacionad
 Podemos comprobar que dichas asociaciones consideran la seguridad como una competencia que el Ingeniero de software debe dominar. No amplían más acerca de las competencias de seguridad en su informe del 2017, sin embargo, podemos estar seguros que la seguridad está considerada como una competencia mínima, fundamental, que sin duda un egresado del nivel licenciatura debe tener.
 La IEEE y ACM (2020) son más específicas. Incluyen 11 competencias que determina como indispensables específicamente en IS:
 
-Protección (safety) del software
+#### Protección (safety) del software
 1. Describir las principales actividades relacionadas con el desarrollo de sistemas de software, que involucran preocupaciones de seguridad (actividades relacionadas a requerimientos, diseño, construcción y calidad).
 2. Crear y verificar listas preliminares de peligros; realizar análisis de peligros y riesgos, identificar requisitos de seguridad.
 3. Implementar y verificar soluciones de diseño, utilizando prácticas seguras de diseño y codificación, para garantizar que se mitiguen los peligros, y se cumplan los requisitos de seguridad.
 4. Ser consciente de las consecuencias del desarrollo de software inseguro, es decir, el efecto negativo en quienes usan o reciben servicios del software.
 
-Seguridad (security) del software
+#### Seguridad (security) del software
 5. Aplicar el modelo de ciclo de vida de seguridad seleccionado del proyecto (por ejemplo, Microsoft SDL), como miembro colaborador de un equipo de proyecto.
 6. Identificar los requisitos de seguridad aplicando el método de requisitos de seguridad seleccionado, como miembro contribuyente de un equipo de proyecto de software.
 7. Incorporar requisitos de seguridad en la arquitectura, el diseño detallado y de alto nivel, como miembro contribuyente de un equipo de proyecto de software. 
