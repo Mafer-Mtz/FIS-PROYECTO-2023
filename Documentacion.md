@@ -102,28 +102,28 @@ Vemos pertinente documentar nuestra reflexión con información puntual obtenida
 
 **Seguridad de aplicaciones:** (AppSec) son los procesos, prácticas y herramientas que se utilizan para identificar, reparar y proteger contra vulnerabilidades en las aplicaciones, durante todo el ciclo de vida de desarrollo de software (SDLC). La seguridad de las aplicaciones implica una amplia gama de herramientas y metodologías, pero todas tienen el mismo objetivo: identificar debilidades y vulnerabilidades y corregirlas antes de que puedan ser explotadas. (Synopsis, s.f.).
 
-**Ingeniería de software:** (IS) es una disciplina de ingeniería que se centra en el desarrollo y uso de métodos rigurosos para diseñar y construir artefactos de software que realizarán de manera confiable tareas específicas. (ACM y IEEE-CS, 2020, p.29)
+**Ingeniería de software:** (IS) es una disciplina de ingeniería que se centra en el desarrollo y uso de métodos rigurosos para diseñar y construir artefactos de software que realizarán de manera confiable tareas específicas. (ACM y IEEE-CS, 2020, p.29).
 
-**Ciberseguridad:** es el área relacionada con la informática que se enfoca en la protección de la infraestructura computacional y todo lo vinculado con la misma, y especialmente la información contenida en una computadora o circulante a través de las redes de computadoras. Es un campo de estudio altamente interdisciplinario. (ACM y IEEE-CS, 2020, p.27)
+**Ciberseguridad:** es el área relacionada con la informática que se enfoca en la protección de la infraestructura computacional y todo lo vinculado con la misma, y especialmente la información contenida en una computadora o circulante a través de las redes de computadoras. Es un campo de estudio altamente interdisciplinario. (ACM y IEEE-CS, 2020, p.27).
 
-*En el 2015, La ANIEI (Asociación Nacional de Instituciones de Educación en Tecnologías de Información) la reconoció como disciplina independiente (Rodriguez et al, p.3)*
+*En el 2015, La ANIEI (Asociación Nacional de Instituciones de Educación en Tecnologías de Información) la reconoció como disciplina independiente* (Rodriguez et al, p.3).
 
 
 **Competencia:** constituye una perspectiva ampliada de la educación que aumenta el conocimiento (saber qué) con su hábil aplicación (saber cómo), motivado por un propósito (saber por qué) para realizar una tarea, un resultado de valor. 
 
-*El entrelazamiento de las dimensiones de la competencia (conocimientos, habilidades y disposiciones) ofrece un vocabulario completo con el cual describir un plan de estudios que incluya los objetivos de aprendizaje naturales para el profesor, el estudiante y los respectivos profesión a la que la empresa educativa aspira a servir. (ACM y IEEE-CS, 2020,  p.79)*
+*El entrelazamiento de las dimensiones de la competencia (conocimientos, habilidades y disposiciones) ofrece un vocabulario completo con el cual describir un plan de estudios que incluya los objetivos de aprendizaje naturales para el profesor, el estudiante y los respectivos profesión a la que la empresa educativa aspira a servir.* (ACM y IEEE-CS, 2020,  p.79).
 
-**Conocimiento:** (como el conjunto de conocimientos). Información aprendida sobre un área del saber. (ACM y IEEE-CS, 2020, p.79)
+**Conocimiento:** (como el conjunto de conocimientos). Información aprendida sobre un área del saber. (ACM y IEEE-CS, 2020, p.79).
 
-**Habilidad:** se define como  el conocimiento aplicado en situaciones y entornos, con un nivel particular de competencia necesaria para una práctica exitosa. La habilidad es el conocimiento aplicado hábilmente. (ACM y IEEE-CS, 2020, p.79)
+**Habilidad:** se define como  el conocimiento aplicado en situaciones y entornos, con un nivel particular de competencia necesaria para una práctica exitosa. La habilidad es el conocimiento aplicado hábilmente. (ACM y IEEE-CS, 2020, p.79).
 
 **Safety:** se refiere a estar protegido de quien causa daño. Es la condición de estar seguro contra amenazas tanto intencionadas como no intencionadas. (TFT, 2020).
 
-*En IS, la safety del código garantiza la confiabilidad. (Foster S. 2020).*
+*En IS, la safety del código garantiza la confiabilidad.* (Foster S. 2020).
 
 **Security:** sugiere proteger a algo contra actividades criminales externas o amenazas que puedan inducir daño. El término se centra en los factores externos deliberados que tienen como objetivo causar problemas. (TFT, 2020).
  
-*En IS, la security del código previene ataques. (Foster S. 2020).*
+*En IS, la security del código previene ataques.* (Foster S. 2020).
 
 ### Competencias
 
