@@ -46,6 +46,8 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 Scrum, Mexico.(2018). “Las historias de usuario son parte de un enfoque ágil que ayuda a cambiar el enfoque de escribir sobre los requisitos a hablar sobre ellos. Todas las historias de usuario ágiles incluyen una oración escrita o dos y, más importante aún, una serie de conversaciones sobre la funcionalidad deseada.”
 
+
+
 ## Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 **Interfaces usuario**
@@ -82,6 +84,8 @@ Schneiderman, B. (1992). “El modelo Sintáctico-Semántico del conocimiento de
 El diseñador de la interfaz ajusta el modelo del usuario y los aspectos de diseño, mientras que las modificaciones en la funcionalidad se comunican al diseñador del sistema. 
 
 En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos y beneficios. Puede surgir nueva información desconocida en pasos anteriores, afectando las decisiones de diseño. Adelantarse a las etapas siguientes, investigando aspectos como hardware y software, resulta útil para determinar los costos y accesibilidad del diseño. En última instancia, el proceso del diseñador es iterativo, refinando los pasos actuales y pasados, e incorporando conocimientos de etapas futuras que influyen en las decisiones actuales.
+
+
 
 ## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
@@ -141,6 +145,7 @@ Seguridad (security) del software
 11. Desarrollar software que respalde los objetivos de calidad del proyecto y cumpla con los requisitos de calidad. (p. 120)
 
 Podemos notar que dichas competencias, como es de esperarse, de alguna forma son aplicables al desarrollo de aplicaciones seguras. Por tanto, se espera que todo Ingeniero en software las domine. Probablemente al trabajar en un desarrollo complemente sus habilidades con la de ingenieros de otras disciplinas, pero se espera que él esté capacitado en seguridad. 
+
 
 
 ## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
