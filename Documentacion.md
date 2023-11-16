@@ -57,7 +57,8 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 ### Interfaces usuario
 
-#### Modelo de objeto de interfaz
+### Modelo de objeto de interfaz
+
 **1. Elaboración del lenguaje de patrones de interacción:**
 - analizar el modelo de casos de uso 
 - identificar los puntos de interacción usuario-aplicación 
