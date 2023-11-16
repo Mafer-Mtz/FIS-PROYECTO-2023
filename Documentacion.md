@@ -20,7 +20,7 @@ Según Zepeda-Hurtado, et. al (2019) esta cualidad ayuda a entender conceptos, l
 
 
 
-**Comprensión lectora:**
+### Comprensión lectora
 Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de poder procesar la información escrita, pero también es necesaria para poder expresarla en algún documento, esta cualidad es necesaria para el desarrollo de un proyecto pues el plasmar las ideas y mostrar los avances en un escrito, se requiere de un buen nivel de redacción y sintaxis, un buen uso del léxico y la capacidad de poder resumir la información de textos o manuales, generalmente se suele ejercer sólo la resolución de problemas, sin embargo al momento de consultar información de alguna lectura, requerimos de la capacidad de interpretar, entender y expresar un escrito. (p. 65)
 
 **Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
