@@ -1,4 +1,4 @@
-# PRUEBA DE DESEMPEÑO 2 Y 3 
+# PRUEBA DE DESEMPEÑO 2 Y 3
 Utilizando referencias válidas (incluirlas como parte de la documentación) realiza las siguientes reflexiones. Es importante que los argumentos que presentes estén fundamentados con las referencias utilizadas. Cada reflexión debe contar con referencias.
 
 
@@ -92,7 +92,9 @@ En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos 
 
 
 
-## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+
+
+## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
 Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
 
@@ -153,7 +155,7 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 
 
-## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
+## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 Métodos de prototipos evolutivos
 Un modelo el cual permita la inclusión de pruebas constantes es el modelo de prototipos evolutivos, pues la UNAM (2012) define a este proceso como “la creación de una implementación parcial de un sistema, para el propósito explícito de aprender sobre los requerimientos del sistema”. Los prototipos se empiezan a crear a partir de la segunda fase principal del modelo y se busca crearlos de la manera más rápida posible, para después presentarlos a los clientes o representantes, los cuales lo probarán y retroalimentarán, devolviendo los errores que encuentren y  posteriormente el equipo desarrollador corrija estos errores para nuevamente presentar hasta haber cubierto los puntos débiles o fallas totales del sistema. 
