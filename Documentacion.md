@@ -1,7 +1,7 @@
 # PRUEBA DE DESEMPEÑO 2 Y 3
 Utilizando referencias válidas (incluirlas como parte de la documentación) realiza las siguientes reflexiones. Es importante que los argumentos que presentes estén fundamentados con las referencias utilizadas. Cada reflexión debe contar con referencias.
 
-
+---
 # Unidad 2
 
 ## Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
@@ -167,9 +167,9 @@ En su libro electrónico “Metodologías y Procesos de Análisis de Software”
 5.  	Operación y mantenimiento: Es la última fase del modelo; en esta fase los errores son mínimos y el programa ya se encuentra entregado al usuario, La fase queda únicamente como método preventivo en caso de fallas y un mantenimiento al software para evitar su caída. 
 **Ejemplo:** Al momento de entrar a la fase de diseño y empezar a trabajar con diagramas de casos de uso y wireframes nos guíamos únicamente por nuestra propia percepción, por lo que los wireframes no fueron lo más óptimos y cómodos para los usuarios; a raíz de un análisis del equipo nos metimos al papel de usuarios y pensamos en las funciones básicas que realizan los wireframes y la experiencia que estos generan; fue gracias a este análisis que nos dimos cuenta que no eran adecuados y empezamos una fase de prueba y error, creando, descartando y mejorando bocetos de diseños, llegando así hasta los últimos bocetos funcionales que dejamos como correctos.  Esto nos dejó una enseñanza a menor escala de lo que sucede en el modelo, sin embargo, se considera como una buena aproximación hacia lo que normalmente se trata con este modelo de prototipos.
 
-
+---
 # Unidad 3
-
+---
 ## Referencias:
 
 ACM y IEEE-CS (2020). Computing Curricula 2020: Paradigms for Global Computing Education. https://dl.acm.org/doi/book/10.1145/3467967
