@@ -1,6 +1,10 @@
+# PRUEBA DE DESEMPEÑO 2 Y 3 
+Utilizando referencias válidas (incluirlas como parte de la documentación) realiza las siguientes reflexiones. Es importante que los argumentos que presentes estén fundamentados con las referencias utilizadas. Cada reflexión debe contar con referencias.
+
+
 # Unidad 2
 
-# Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+## Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 **comunicación:** La comunicación es importante a la hora del desarrollo de un proyecto, pues la creatividad se ve expresada mediante el uso correcto del lenguaje, desde los colegas o compañeros de equipo al momento de discutir el funcionamiento de un programa, o la buena comunicación que se debe mantener con el cliente para convencerlo de llevar a cabo el proyecto. Es una herramienta necesaria para un ingeniero de carácter multidisciplinario, permitiendo gestionar bien la organización del equipo, simplificar el lenguaje de comunicación (expresar ideas complejas en palabras simples), por otra parte, el dominio de algún idioma externo a nuestra lengua nativa como lo puede ser el inglés, puesto que la mayoría de palabras de marketing o términos de programación se encuentran en este idioma.
 
@@ -17,7 +21,7 @@ Para poder desarrollar nuestra aplicación y gestionar mejor nuestras ideas y ti
 
 **Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario.
 
-# Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario.Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas.Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+## Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario.Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas.Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
 
 La mayoría de problemas en un proyecto de software se debe a la mala coordinación del manejo de los requerimientos esto se debe ya que hay una mala comunicación entre usuario y desarrollador, siendo mayormente que el cliente no sepa lo que quiere o lo que realmente necesita, es por eso que para facilitar más esta validación de necesidades se usan las especificaciones de casos de uso.
 
@@ -42,7 +46,7 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 Scrum, Mexico.(2018). “Las historias de usuario son parte de un enfoque ágil que ayuda a cambiar el enfoque de escribir sobre los requisitos a hablar sobre ellos. Todas las historias de usuario ágiles incluyen una oración escrita o dos y, más importante aún, una serie de conversaciones sobre la funcionalidad deseada.”
 
-# Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+## Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 **Interfaces usuario**
 
@@ -79,7 +83,7 @@ El diseñador de la interfaz ajusta el modelo del usuario y los aspectos de dise
 
 En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos y beneficios. Puede surgir nueva información desconocida en pasos anteriores, afectando las decisiones de diseño. Adelantarse a las etapas siguientes, investigando aspectos como hardware y software, resulta útil para determinar los costos y accesibilidad del diseño. En última instancia, el proceso del diseñador es iterativo, refinando los pasos actuales y pasados, e incorporando conocimientos de etapas futuras que influyen en las decisiones actuales.
 
-# Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
 
@@ -139,7 +143,7 @@ Seguridad (security) del software
 Podemos notar que dichas competencias, como es de esperarse, de alguna forma son aplicables al desarrollo de aplicaciones seguras. Por tanto, se espera que todo Ingeniero en software las domine. Probablemente al trabajar en un desarrollo complemente sus habilidades con la de ingenieros de otras disciplinas, pero se espera que él esté capacitado en seguridad. 
 
 
-# Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
+## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
 Métodos de prototipos evolutivos
 Un modelo el cual permita la inclusión de pruebas constantes es el modelo de prototipos evolutivos, pues la UNAM (2012) define a este proceso como “la creación de una implementación parcial de un sistema, para el propósito explícito de aprender sobre los requerimientos del sistema”. Los prototipos se empiezan a crear a partir de la segunda fase principal del modelo y se busca crearlos de la manera más rápida posible, para después presentarlos a los clientes o representantes, los cuales lo probarán y retroalimentarán, devolviendo los errores que encuentren y  posteriormente el equipo desarrollador corrija estos errores para nuevamente presentar hasta haber cubierto los puntos débiles o fallas totales del sistema. 
@@ -154,47 +158,40 @@ En su libro electrónico “Metodologías y Procesos de Análisis de Software”
 
 # Unidad 3
 
-# Referencias:
+## Referencias:
+
+ACM y IEEE-CS (2020). Computing Curricula 2020: Paradigms for Global Computing Education. https://dl.acm.org/doi/book/10.1145/3467967
+
+ANIEI Y CONAIC. (2017). Competencias transversales y específicas de los perfiles que evalúa CONAIC.
+
+Abiztar. (n.d.). Especificaciones de Casos de Uso: lo que bien comienza, bien acaba. Com.mx. Recuperado el 13 de noviembre, 2023, de https://www.abiztar.com.mx/articulos/especificaciones-de-casos-de-uso.html
 
 Chaves, A. & Universidad de Costa Rica. (2005). La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software. InterSedes: Revista de las Sedes Regionales, VI(10), 2215-2458. https://www.redalyc.org/pdf/666/66612870011.pdf
 
-Hurtado, Z., Elena, M., Espinosa, C., Oliver, E., Benguría, R., & Instituto Politécnico Nacional. (2019). El desarrollo de habilidades blandas en la formación de ingenieros. Científica, 23(1), 1665-0654. https://www.redalyc.org/journal/614/61458265007/61458265007.pdf 
-Abiztar. (n.d.). Especificaciones de Casos de Uso: lo que bien comienza, bien acaba. Com.mx. Recuperado el 13 de noviembre, 2023, de https://www.abiztar.com.mx/articulos/especificaciones-de-casos-de-uso.html
-
-Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Recuperado el 13 de noviembre, 2023, de https://www.atlassian.com/es/agile/project-management/user-stories
-
-Guest User. (2018, August 2). Historias de Usuario, Escritura, Definición, Contexto y Ejemplos — SCRUM MÉXICO. SCRUM MÉXICO. Recuperado el 13 de noviembre , 2023, de https://scrum.mx/informate/historias-de-usuario 
-
-De la, C. de I. (n.d.). SABER. Revista Multidisciplinaria del. Redalyc.org. recuperado el 13 de noviembre , 2023, de https://www.redalyc.org/pdf/4277/427739430010.pdf
-
-(S/f). Edu.ar. Recuperado el 15 de noviembre de 2023, de http://sedici.unlp.edu.ar/bitstream/handle/10915/32172/Documento_completo__.pdf?sequence=1&isAllowed=y 
-
-Synopsis (s.f.). Application security. Recuperado  de https://www.synopsys.com/glossary/what-is-application-security.html
-
-ANIEI Y CONAIC. ( 2017). Competencias transversales y específicas de los perfiles que evalúa CONAIC.
-
-ACM y IEEE-CS  (2020). Computing Curricula 2020: Paradigms for Global Computing Education. https://dl.acm.org/doi/book/10.1145/3467967
-
-G. Rodríguez-Abitia, M. de Lourdes Sánchez-Guerrero, S. Martínez-Pérez y N. Aguas-García. (2022). "Competencies of Information Technology Professionals in Society 5.0, en IEEE Revista Iberoamericana de Tecnologías del Aprendizaje, vol. 17, no. 4, pp. 343-350, Nov. 2022, doi: 10.1109/RITA.2022.3217136.
-
-TFT. (2020). Software Safety Vs Security: What’s the difference? https://www.tftus.com/blog/software-safety-vs-security-whats-different
+De la, C. de I. (n.d.). SABER. Revista Multidisciplinaria del. Redalyc.org. recuperado el 13 de noviembre, 2023, de https://www.redalyc.org/pdf/4277/427739430010.pdf
 
 Foster, S. (2020). Software safety vs. Security: What’s the difference between safety and security? https://www.perforce.com/blog/kw/software-safety-vs-security-whats-different
 
-Sentrio. (2021, octubre 13). Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’. Sentrio. https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/ 
-Graván, A. D. (2018, noviembre 29). Manifiesto “agile”, ¿qué es? BBVA. https://www.bbva.com/es/innovacion/agile-manifiesto-que-es/ 
-Manifiesto por el Desarrollo Ágil de Software. (s/f). Agilemanifesto.org. Recuperado el 15 de noviembre de 2023, de https://agilemanifesto.org/iso/es/manifesto.html 
+G. Rodríguez-Abitia, M. de Lourdes Sánchez-Guerrero, S. Martínez-Pérez y N. Aguas-García. (2022). "Competencies of Information Technology Professionals in Society 5.0, en IEEE Revista Iberoamericana de Tecnologías del Aprendizaje, vol. 17, no. 4, pp. 343-350, Nov. 2022, doi: 10.1109/RITA.2022.3217136.
 
 G. Maigua, E. López, Buenas prácticas en la dirección y gestión de proyectos informáticos, Argentina: Editorial de la Universidad Tecnológica Nacional – edUTecNe, 2012, p.13.
-K. Beck, Extreme Programming Explained: Embrace Change, Addison-Wesley, Pearson Education, 2000. 
-R. Pressman, Ingeniería de software: Un enfoque práctico, (3rd. Ed.) México: Mc Graw-Hill, 1993.
-P. Abrahamsson, O. Salo, J. Ronkainen, J. Warsta, Agile software development methods. Review and analysis, Finlandia: VTT, 2002.
-S. G. Rivadeneira, “Metodologías ágiles enfocadas al modelado de requerimientos,” Unidad Académica Rio Turbio – Universidad Nacional de la Patagonia Austral, Argentina, May. 2012.
-R. B. Abreu. "Investigación de la Metodología Ágil Crystal Clear y su Aplicación a un Caso de Estudio". Y. O. Guntín y L. G.
-A. d. l. Campa (Tutor). Tesis de Grado. La Habana, Instituto Superior Politécnico José Antonio Echeverría. 2008.
 
+Guest User. (2018, August 2). Historias de Usuario, Escritura, Definición, Contexto y Ejemplos — SCRUM MÉXICO. SCRUM MÉXICO. Recuperado el 13 de noviembre, 2023, de https://scrum.mx/informate/historias-de-usuario
 
+Hurtado, Z., Elena, M., Espinosa, C., Oliver, E., Benguría, R., & Instituto Politécnico Nacional. (2019). El desarrollo de habilidades blandas en la formación de ingenieros. Científica, 23(1), 1665-0654. https://www.redalyc.org/journal/614/61458265007/61458265007.pdf
 
+Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Recuperado el 13 de noviembre, 2023, de https://www.atlassian.com/es/agile/project-management/user-stories
 
+Sentrio. (2021, octubre 13). Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’. Sentrio. https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/
 
+Synopsis (s.f.). Application security. Recuperado de https://www.synopsys.com/glossary/what-is-application-security.html
 
+TFT. (2020). Software Safety Vs Security: What’s the difference? https://www.tftus.com/blog/software-safety-vs-security-whats-different
+
+Edu.ar. Recuperado el 15 de noviembre de 2023, de http://sedici.unlp.edu.ar/bitstream/handle/10915/32172/Documento_completo__.pdf?sequence=1&isAllowed=y
+
+Manifiesto por el Desarrollo Ágil de Software. (s/f). Agilemanifesto.org. Recuperado el 15 de noviembre de 2023, de https://agilemanifesto.org/iso/es/manifesto.html
+
+Graván, A. D. (2018, noviembre 29). Manifiesto “agile”, ¿qué es? BBVA. https://www.bbva.com/es/innovacion/agile-manifiesto-que-es/
+
+Y. O. Guntín y L. G. A. d. l. Campa (Tutor). Tesis de Grado. La Habana, Instituto Superior Politécnico José Antonio Echeverría. 2008.
