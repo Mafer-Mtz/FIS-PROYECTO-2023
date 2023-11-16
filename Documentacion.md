@@ -26,7 +26,7 @@ Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de
 **Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
 
 
-## Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario.Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas.Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+## Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 La mayoría de problemas en un proyecto de software se debe a la mala coordinación del manejo de los requerimientos esto se debe ya que hay una mala comunicación entre usuario y desarrollador, siendo mayormente que el cliente no sepa lo que quiere o lo que realmente necesita, es por eso que para facilitar más esta validación de necesidades se usan las especificaciones de casos de uso.
 
@@ -49,7 +49,7 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 “Cómo usuario registrado, quiero poder elegir entre un método de confirmación de mi cuenta para tener un acceso más seguro.”
 
-Scrum, Mexico.(2018). “Las historias de usuario son parte de un enfoque ágil que ayuda a cambiar el enfoque de escribir sobre los requisitos a hablar sobre ellos. Todas las historias de usuario ágiles incluyen una oración escrita o dos y, más importante aún, una serie de conversaciones sobre la funcionalidad deseada.”
+*“Las historias de usuario son parte de un enfoque ágil que ayuda a cambiar el enfoque de escribir sobre los requisitos a hablar sobre ellos. Todas las historias de usuario ágiles incluyen una oración escrita o dos y, más importante aún, una serie de conversaciones sobre la funcionalidad deseada.”* (Scrum Mexico, 2018).
 
 
 
