@@ -30,7 +30,7 @@ Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de
 
 La mayoría de problemas en un proyecto de software se debe a la mala coordinación del manejo de los requerimientos esto se debe ya que hay una mala comunicación entre usuario y desarrollador, siendo mayormente que el cliente no sepa lo que quiere o lo que realmente necesita, es por eso que para facilitar más esta validación de necesidades se usan las especificaciones de casos de uso.
 
-- Especificaciones de casos de uso: esto se utiliza como una forma de ver cómo interactúa el usuario con nuestro programa sirviendo como una documentación para saber que se puede mejorar de acuerdo a las necesidades de nuestros usuarios, siendo necesariamente que sean lo más detallado y preciso posible ya que, entre menos detalle más será el margen de error que pueda haber en nuestro programa, esto viéndose desde la perspectiva externa al usuario .
+- **Especificaciones de casos de uso:** esto se utiliza como una forma de ver cómo interactúa el usuario con nuestro programa sirviendo como una documentación para saber que se puede mejorar de acuerdo a las necesidades de nuestros usuarios, siendo necesariamente que sean lo más detallado y preciso posible ya que, entre menos detalle más será el margen de error que pueda haber en nuestro programa, esto viéndose desde la perspectiva externa al usuario .
 
 **Ejemplo:** Publicación de productos
 flujo:
