@@ -154,13 +154,13 @@ La IEEE y ACM (2020) son más específicas. Incluyen 11 competencias que determi
 4. Ser consciente de las consecuencias del desarrollo de software inseguro, es decir, el efecto negativo en quienes usan o reciben servicios del software.
 
 #### Seguridad (security) del software
-5. Aplicar el modelo de ciclo de vida de seguridad seleccionado del proyecto (por ejemplo, Microsoft SDL), como miembro colaborador de un equipo de proyecto.
-6. Identificar los requisitos de seguridad aplicando el método de requisitos de seguridad seleccionado, como miembro contribuyente de un equipo de proyecto de software.
-7. Incorporar requisitos de seguridad en la arquitectura, el diseño detallado y de alto nivel, como miembro contribuyente de un equipo de proyecto de software. 
-8. Desarrollar software utilizando estándares de codificación segura.
-9. Ejecuta casos de prueba específicos de seguridad.
-10. Adherirse al proceso de desarrollo de software del proyecto, como miembro colaborador de un equipo de proyecto de software.
-11. Desarrollar software que respalde los objetivos de calidad del proyecto y cumpla con los requisitos de calidad. (p. 120)
+1. Aplicar el modelo de ciclo de vida de seguridad seleccionado del proyecto (por ejemplo, Microsoft SDL), como miembro colaborador de un equipo de proyecto.
+3. Identificar los requisitos de seguridad aplicando el método de requisitos de seguridad seleccionado, como miembro contribuyente de un equipo de proyecto de software.
+4. Incorporar requisitos de seguridad en la arquitectura, el diseño detallado y de alto nivel, como miembro contribuyente de un equipo de proyecto de software. 
+5. Desarrollar software utilizando estándares de codificación segura.
+6. Ejecuta casos de prueba específicos de seguridad.
+7. Adherirse al proceso de desarrollo de software del proyecto, como miembro colaborador de un equipo de proyecto de software.
+8. Desarrollar software que respalde los objetivos de calidad del proyecto y cumpla con los requisitos de calidad. (p. 120)
 
 Podemos notar que dichas competencias, como es de esperarse, de alguna forma son aplicables al desarrollo de aplicaciones seguras. Por tanto, se espera que todo Ingeniero en software las domine. Probablemente al trabajar en un desarrollo complemente sus habilidades con la de ingenieros de otras disciplinas, pero se espera que él esté capacitado en seguridad. 
 
