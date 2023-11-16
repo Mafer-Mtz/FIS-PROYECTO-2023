@@ -80,13 +80,13 @@ Dependiendo de cómo se expresan las soluciones en los patrones de interacción:
 - Si las soluciones se expresan gráficamente con un diseño de interfaz utilizando el lenguaje de implementación del producto final, se considera prácticamente elaborado un prototipo de alta fidelidad.
 
 
-**4. Modelo SSOA:**
+### Modelo SSOA
 
 De acuerdo Schneiderman, B.,  El modelo Sintactico-semantico (SSOA) proporciona diferentes formas en las que un usuario pueda interactuar con un sistema. La diferencia entre las sintaxis y semántica se originó a través de la definición de compiladores separando la parte del análisis sintáctico siendo la parte del proceso de entrada de texto/comando de la parte semántica  siendo el proceso de interpretación. Los diseñadores igualmente pueden usar un modelo de sintáctico-semántico de acuerdo al conocimiento del usuario siendo el conocimiento sintáctico la comprensión de los detalles de los usos de los dispositivos, mientras que el semántico abarca información relacionada con la aplicación como el uso general de los sistemas interactivos.  
 
 Schneiderman, B. (1992). “El modelo Sintáctico-Semántico del conocimiento del usuario (SSOA) provee un marco de definición sobre las diferentes formas y grado de conocimiento que un usuario puede emplear al interactuar con un sistema. La distinción entre las sintaxis y semántica surgió a partir de la definición de compiladores, separando el proceso de compilación de la entrada de texto o comando, denominado análisis sintáctico, del proceso de interpretación del mismo, denominado análisis semántico. Los diseñadores de los sistemas interactivos también pueden contar con un modelo sintáctico semántico aplicado al conocimiento del usuario. Como se explicó en la fase de requerimientos, el conocimiento sintáctico se refiere al entendimiento de detalles dependientes al uso de los dispositivos. El conocimiento semántico incluye información conceptual concerniente a la aplicación -objetos y acciones del dominio de la tarea- y al uso general de los sistemas interactivos.”
 
-**Etapa del diseño de la interfaz:**
+- Etapa del diseño de la interfaz:
 
 El diseñador de la interfaz ajusta el modelo del usuario y los aspectos de diseño, mientras que las modificaciones en la funcionalidad se comunican al diseñador del sistema. 
 
