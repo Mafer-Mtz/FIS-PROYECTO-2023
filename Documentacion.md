@@ -237,72 +237,88 @@ Crystal es regida por principios (principios de agilidad) que hacen su utilizaci
 
 **Ventajas:**
 
- Es muy ágil y flexible. Se adapta bien a proyectos con requisitos cambiantes.
-Promueve la comunicación y colaboración cercana entre el equipo de desarrollo y los usuarios/clientes.
- Los ciclos de desarrollo son cortos (de 2 a 4 semanas) permitiendo obtener retroalimentación temprana.
-  No hay roles definidos, el equipo es auto-organizado.
-El software usable es priorizado sobre la documentación exhaustiva.
-Desventajas:
-Requiere de un equipo altamente calificado y con experiencia para que la metodología funcione bien.
-La falta de documentación puede causar problemas a largo plazo de mantenimiento.
-Al no tener roles claros, puede haber confusión y falta de enfoque en el equipo.
-No es recomendable para proyectos muy grandes o complejos.
- Depende mucho de la comunicación fluida entre el equipo, si esto falla, la metodología no funciona.
- Puede ser difícil de adoptar para equipos acostumbrados a metodologías más estructuradas.
+- Es muy ágil y flexible. Se adapta bien a proyectos con requisitos cambiantes.
+- Promueve la comunicación y colaboración cercana entre el equipo de desarrollo y los usuarios/clientes.
+- Los ciclos de desarrollo son cortos (de 2 a 4 semanas) permitiendo obtener retroalimentación temprana.
+- No hay roles definidos, el equipo es auto-organizado.
+- El software usable es priorizado sobre la documentación exhaustiva.
+  
+**Desventajas:**
+
+- Requiere de un equipo altamente calificado y con experiencia para que la metodología funcione bien.
+- La falta de documentación puede causar problemas a largo plazo de mantenimiento.
+- Al no tener roles claros, puede haber confusión y falta de enfoque en el equipo.
+- No es recomendable para proyectos muy grandes o complejos.
+ - Depende mucho de la comunicación fluida entre el equipo, si esto falla, la metodología no funciona.
+ - Puede ser difícil de adoptar para equipos acostumbrados a metodologías más estructuradas.
 
 
-Programación extrema (XP):
+**Programación extrema (XP):**
+
  La programación extrema es una metodología que se basa en una serie de reglas y principios que se han utilizado a lo largo de toda la historia del desarrollo de software, aplicando conjuntamente cada una de ella de manera que creen un proceso ágil, en el que se le dé énfasis a las tareas que agreguen valor y quiten procedimientos que generan burocracia en el mismo. (Rivadeneira, 2012).
-¿En qué consiste?
+ 
+**¿En qué consiste?**
+
 Los objetivos de XP son muy simples: la satisfacción del cliente. Esta metodología trata de dar al cliente el software que él necesita y cuando lo necesita. Por tanto, debemos responder muy rápido a las necesidades del cliente, incluso cuando los cambios sean al final de ciclo de la programación.
+
 El segundo objetivo es potenciar al máximo el trabajo en grupo. Tanto los jefes de proyecto, los clientes y desarrolladores, son parte del equipo y están involucrados en el desarrollo del software. (Manuel Calero, 2003).
-Proceso de la metodología Programación Extrema (XP)
-Planificación: Se crea una lista priorizada de historias de usuario que definen las funcionalidades deseadas. Se hace una planificación de versiones en ciclos cortos.
-Diseño: Solo se realiza el diseño necesario para las historias de la iteración actual. El diseño es simple y no hay documentación extensa.
-Codificación: Se implementa código para las historias de usuario priorizadas, escribiendo pruebas unitarias antes de codificar. Se integra código nuevo frecuentemente.
-Pruebas: Se crean pruebas unitarias para todo el código. También hay pruebas de aceptación definidas por el cliente. Se enfatiza la automatización de pruebas.
-Integración continua: El código se integra diariamente para detectar errores tempranos. Se mantienen construcciones estables del sistema.
-Revisión de código: Todo el código es revisado por otros programadores para mejorar la calidad.
-Refactorización: El código se refactoriza constantemente para eliminar duplicación y mejorar el diseño.
-Entrega pequeña: Versiones del sistema se entregan en ciclos cortos de 1-3 semanas, priorizando funcionalidades de mayor valor para el cliente.
-Programación en parejas: Todo el código es desarrollado por dos programadores en una misma computadora.
-Propiedad colectiva: Cualquier miembro del equipo puede cambiar cualquier parte del código en cualquier momento.
+
+**Proceso de la metodología Programación Extrema (XP)**
+
+- **Planificación:** Se crea una lista priorizada de historias de usuario que definen las funcionalidades deseadas. Se hace una planificación de versiones en ciclos cortos.
+- **Diseño:** Solo se realiza el diseño necesario para las historias de la iteración actual. El diseño es simple y no hay documentación extensa.
+- **Codificación:** Se implementa código para las historias de usuario priorizadas, escribiendo pruebas unitarias antes de codificar. Se integra código nuevo frecuentemente.
+- **Pruebas:** Se crean pruebas unitarias para todo el código. También hay pruebas de aceptación definidas por el cliente. Se enfatiza la automatización de pruebas.
+- **Integración continua:** El código se integra diariamente para detectar errores tempranos. Se mantienen construcciones estables del sistema.
+- **Revisión de código:** Todo el código es revisado por otros programadores para mejorar la calidad.
+- **Refactorización:** El código se refactoriza constantemente para eliminar duplicación y mejorar el diseño.
+- **Entrega pequeña:** Versiones del sistema se entregan en ciclos cortos de 1-3 semanas, priorizando funcionalidades de mayor valor para el cliente.
+- **Programación en parejas:** Todo el código es desarrollado por dos programadores en una misma computadora.
+- **Propiedad colectiva:** Cualquier miembro del equipo puede cambiar cualquier parte del código en cualquier momento.
+  
  La programación extrema se engloba en doce principios de agilidad básicos, los cuales a su vez se agrupan en cuatro categorías grandes, entre ellas se pueden mencionar:
-Retroalimentación a Escala Fina, en esta fase se encuentran diversos principios como los de realización de pruebas, proceso de planificación, el cliente en el sitio y programación en parejas.
-Proceso Continuo en lugar de por lotes, permite la integración continua, refactorización (Evaluar el diseño del sistema a lo largo de todo el proyecto y codificar si es necesario) y entregas pequeñas.
-Entendimiento compartido, en esta categoría se definen criterios como el de crear un diseño fácil, las tarjetas CRC (Clase, Responsabilidad y Colaboración) y la creación de la metáfora del sistema o historia completa.
-Bienestar del programador, se rige por la filosofía que un programador cansado, exhausto crea código de mala calidad, por eso se recomienda que los desarrolladores tengan 40 horas de trabajo a la semana y muy pocas horas extras de trabajo.
-Retroalimentación continua: Realización frecuente de pruebas y obtención de retroalimentación del cliente.
-Entregas pequeñas: El proyecto se divide en entregas cortas y frecuentes de software funcionando.
-Reunión diaria de equipo: Reuniones diarias para coordinación y solución de problemas.
-Retroalimentación continua: Realización frecuente de pruebas y obtención de retroalimentación del cliente.
-Entregas pequeñas: El proyecto se divide en entregas cortas y frecuentes de software funcionando.
-Reunión diaria de equipo:Reuniones diarias para coordinación y solución de problemas.
-Ventajas y desventajas de utilizar la metodología Programación extrema (XP):
-Ventajas:
-Entrega continua de software funcional. Permite detectar errores y obtener retroalimentación del cliente de manera temprana.
-Mayor flexibilidad a cambios. Al enfocarse en entregas pequeñas y iteraciones cortas, es más fácil adaptarse a cambios en los requerimientos
-Mayor calidad de código. Las prácticas como pair programming y testing continuos ayudan a mejorar la calidad.
-Aumenta la productividad. Las prácticas ágiles y el enfoque colaborativo en el equipo impulsan la productividad.
-Promueve el trabajo en equipo y buena comunicación. Los roles no están delimitados y se busca la colaboración.
+
+- Retroalimentación a Escala Fina, en esta fase se encuentran diversos principios como los de realización de pruebas, proceso de - planificación, el cliente en el sitio y programación en parejas.
+- Proceso Continuo en lugar de por lotes, permite la integración continua, refactorización (Evaluar el diseño del sistema a lo largo de todo el proyecto y codificar si es necesario) y entregas pequeñas.
+- Entendimiento compartido, en esta categoría se definen criterios como el de crear un diseño fácil, las tarjetas CRC (Clase, Responsabilidad y Colaboración) y la creación de la metáfora del sistema o historia completa.
+- Bienestar del programador, se rige por la filosofía que un programador cansado, exhausto crea código de mala calidad, por eso se recomienda que los desarrolladores tengan 40 horas de trabajo a la semana y muy pocas horas extras de trabajo.
+- Retroalimentación continua: Realización frecuente de pruebas y obtención de retroalimentación del cliente.
+- Entregas pequeñas: El proyecto se divide en entregas cortas y frecuentes de software funcionando.
+- Reunión diaria de equipo: Reuniones diarias para coordinación y solución de problemas.
+- Retroalimentación continua: Realización frecuente de pruebas y obtención de retroalimentación del cliente.
+- Entregas pequeñas: El proyecto se divide en entregas cortas y frecuentes de software funcionando.
+- Reunión diaria de equipo:Reuniones diarias para coordinación y solución de problemas.
+- 
+**Ventajas y desventajas de utilizar la metodología Programación extrema (XP):**
+
+**Ventajas:**
+
+- Entrega continua de software funcional. Permite detectar errores y obtener retroalimentación del cliente de manera temprana.
+- Mayor flexibilidad a cambios. Al enfocarse en entregas pequeñas y iteraciones cortas, es más fácil adaptarse a cambios en los requerimientos
+- Mayor calidad de código. Las prácticas como pair programming y testing continuos ayudan a mejorar la calidad.
+- Aumenta la productividad. Las prácticas ágiles y el enfoque colaborativo en el equipo impulsan la productividad.
+- Promueve el trabajo en equipo y buena comunicación. Los roles no están delimitados y se busca la colaboración.
  
-Desventajas:
-Curva de aprendizaje empinada. Adoptar XP representa un cambio grande para equipos acostumbrados a metodologías tradicionales.
-Requiere de clientes involucrados. Si el cliente no participa activamente, XP no funciona bien.
-Difícil de escalar a proyectos muy grandes. XP se enfoca en equipos pequeños y metodologías livianas.
-Falta de énfasis en la arquitectura y diseño. Esto puede causar problemas en proyectos complejos.
-Depende en exceso de las habilidades técnicas del equipo de programadores.
+**Desventajas**:
+
+- Curva de aprendizaje empinada. Adoptar XP representa un cambio grande para equipos acostumbrados a metodologías tradicionales.
+- Requiere de clientes involucrados. Si el cliente no participa activamente, XP no funciona bien.
+- Difícil de escalar a proyectos muy grandes. XP se enfoca en equipos pequeños y metodologías livianas.
+- Falta de énfasis en la arquitectura y diseño. Esto puede causar problemas en proyectos complejos.
+- Depende en exceso de las habilidades técnicas del equipo de programadores.
  
-¿Cómo implementar esos principios en nuestro proyecto?
-Los principios de agilidad identificados promueven equipos autoorganizados, colaboración con el cliente, entregas rápidas e incrementales, adaptabilidad a los cambios y mejora continua. Estos principios son claves en metodologías ágiles para lograr mayor eficiencia. La manera en la que implementaríamos los principios de agilidad sería de la siguiente manera:
-Formar equipos autoorganizados y multifuncionales, dándoles autonomía para tomar decisiones sobre cómo abordar el trabajo.
-Tener iteraciones cortas de 1 a 4 semanas para hacer entregas frecuentes de funcionalidad. Al final de cada iteración se entrega un incremento funcional del producto.
-Involucrar al cliente de manera activa, obteniendo su feedback frecuente sobre los incrementos entregados.
-Adaptar el plan del proyecto a medida que cambian los requisitos, en lugar de seguir un plan preestablecido rígidamente.
-Hacer reuniones diarias de equipo para coordinación e identificación temprana de problemas.
-Reducir la documentación al mínimo necesario, centrándose en código que funcione y aporte valor al cliente.
-Promover la simplicidad en el diseño y refactorización continua cuando sea necesario.  
-Crear un ambiente de trabajo colaborativo, motivador y productivo para el equipo.
+**¿Cómo implementar esos principios en nuestro proyecto?**
+
+- Los principios de agilidad identificados promueven equipos autoorganizados, colaboración con el cliente, entregas rápidas e incrementales, adaptabilidad a los cambios y mejora continua. Estos principios son claves en metodologías ágiles para lograr mayor eficiencia. La manera en la que implementaríamos los principios de agilidad sería de la siguiente manera:
+
+- Formar equipos autoorganizados y multifuncionales, dándoles autonomía para tomar decisiones sobre cómo abordar el trabajo.
+- Tener iteraciones cortas de 1 a 4 semanas para hacer entregas frecuentes de funcionalidad. Al final de cada iteración se entrega un incremento funcional del producto.
+- Involucrar al cliente de manera activa, obteniendo su feedback frecuente sobre los incrementos entregados.
+- Adaptar el plan del proyecto a medida que cambian los requisitos, en lugar de seguir un plan preestablecido rígidamente.
+- Hacer reuniones diarias de equipo para coordinación e identificación temprana de problemas.
+- Reducir la documentación al mínimo necesario, centrándose en código que funcione y aporte valor al cliente.
+- Promover la simplicidad en el diseño y refactorización continua cuando sea necesario.  
+- Crear un ambiente de trabajo colaborativo, motivador y productivo para el equipo.
 
 
 
@@ -320,7 +336,7 @@ Chaves, A. & Universidad de Costa Rica. (2005). La ingeniería de requerimientos
 
 De la, C. de I. (n.d.). SABER. Revista Multidisciplinaria del. Redalyc.org. recuperado el 13 de noviembre, 2023, de https://www.redalyc.org/pdf/4277/427739430010.pdf
 
-Foster, S. (2020). Software safety vs. Security: What’s the difference between safety and security? https://www.perforce.com/blog/kw/software-safety-vs-security-whats-different
+Foster, S. (2020). Software safety vs. Security: What’s the difference between safety and security? Recuperdado el 15 de noviembre, 2023, de https://www.perforce.com/blog/kw/software-safety-vs-security-whats-different
 
 G. Rodríguez-Abitia, M. de Lourdes Sánchez-Guerrero, S. Martínez-Pérez y N. Aguas-García. (2022). "Competencies of Information Technology Professionals in Society 5.0, en IEEE Revista Iberoamericana de Tecnologías del Aprendizaje, vol. 17, no. 4, pp. 343-350, Nov. 2022, doi: 10.1109/RITA.2022.3217136.
 
@@ -334,14 +350,14 @@ Rehkopf, D. M. (n.d.). Historias de usuario. Atlassian. Recuperado el 13 de novi
 
 Sentrio. (2021, octubre 13). Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’. Sentrio. https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/
 
-Synopsis (s.f.). Application security. Recuperado de https://www.synopsys.com/glossary/what-is-application-security.html
+Synopsis (s.f.). Application security. Recuperado el 15 de noviembre de de https://www.synopsys.com/glossary/what-is-application-security.html
 
 TFT. (2020). Software Safety Vs Security: What’s the difference? https://www.tftus.com/blog/software-safety-vs-security-whats-different
 
 Edu.ar. Recuperado el 15 de noviembre de 2023, de http://sedici.unlp.edu.ar/bitstream/handle/10915/32172/Documento_completo__.pdf?sequence=1&isAllowed=y
 
-Manifiesto por el Desarrollo Ágil de Software. (s/f). Agilemanifesto.org. Recuperado el 15 de noviembre de 2023, de https://agilemanifesto.org/iso/es/manifesto.html
+Manifiesto por el Desarrollo Ágil de Software. (s/f). Agilemanifesto.org. Recuperado el 15 de noviembre, 2023, de https://agilemanifesto.org/iso/es/manifesto.html
 
-Graván, A. D. (2018, noviembre 29). Manifiesto “agile”, ¿qué es? BBVA. https://www.bbva.com/es/innovacion/agile-manifiesto-que-es/
+Graván, A. D. (2018, noviembre 29). Manifiesto “agile”, ¿qué es? BBVA. Recuperado el 16 de noviembre, 2023, de https://www.bbva.com/es/innovacion/agile-manifiesto-que-es/
 
 Y. O. Guntín y L. G. A. d. l. Campa (Tutor). Tesis de Grado. La Habana, Instituto Superior Politécnico José Antonio Echeverría. 2008.
