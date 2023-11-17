@@ -4,29 +4,29 @@ Utilizando referencias válidas (incluirlas como parte de la documentación) rea
 ---
 # Unidad 2
 
-## Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+#### Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
-### Comunicación: 
+#### Comunicación: 
 La comunicación es importante a la hora del desarrollo de un proyecto, pues la creatividad se ve expresada mediante el uso correcto del lenguaje, desde los colegas o compañeros de equipo al momento de discutir el funcionamiento de un programa, o la buena comunicación que se debe mantener con el cliente para convencerlo de llevar a cabo el proyecto. Es una herramienta necesaria para un ingeniero de carácter multidisciplinario, permitiendo gestionar bien la organización del equipo, simplificar el lenguaje de comunicación (expresar ideas complejas en palabras simples), por otra parte, el dominio de algún idioma externo a nuestra lengua nativa como lo puede ser el inglés, puesto que la mayoría de palabras de marketing o términos de programación se encuentran en este idioma. (Chávez y Carrillo, 2005, p.9).
 
 Con antes mencionado en cuenta, al momento de aplicarlo en el desarrollo de requerimientos, es bueno dejar en claro cuáles serán los objetivos a cumplir, la gestión del tiempo y las herramientas que se emplearán, en caso de no ponerse de acuerdo, el cliente y el grupo de desarrollo, se puede presentar un proyecto que no cumpla con las expectativas del comprador, en este caso los recursos y tiempo se vieron desperdiciados, también al momento de reunirse entre programadores es bueno mantener una comunicación óptima, pues permite mejor organización de tareas, por ende, un trabajo más rápido y efectivo
 
 **Ejemplo:** El grupo de desarrollo de este proyecto realizó conferencias con el objetivo de poder organizar la importancia de requerimientos y cuáles serían los más fundamentales, por el hecho de no conocernos al principio fue difícil expresar las ideas con claridad, sin embargo mientras iban progresando los días y avanzaban las entregas, era más fácil poder expresar cuáles eran las condiciones que queríamos para la aplicación y sus herramientas.
 
-### Pensamiento complejo
+#### Pensamiento complejo
 Según Zepeda-Hurtado, et. al (2019) esta cualidad ayuda a entender conceptos, la capacidad de inferir una resolución mediante lógica, realizar soluciones creativas partiendo de nuevas ideas y descomponiéndolas, para hallar algún método. Esta habilidad es muy útil para el desarrollo de algún software, debido a que debemos estar dispuestos a adquirir nuevos conocimientos, como lo pueden ser ideas de marketing, los diferentes tipos de gestión de proyectos, o al momento de desarrollar un programa para algún ámbito externo a nuestros conocimientos, tenemos que adentrarnos al aprendizaje de nuevos temas para poder desarrollar herramientas que entiendan la necesidad del software, de esta forma mejorando su desempeño
 
 **Ejemplo:** Para poder desarrollar nuestra aplicación y gestionar mejor nuestras ideas y tiempo, tuvimos que entender y aprender diferentes sistemas de organización de proyectos como lo es el scrum, con el objetivo de tener un mejor desempeño al momento de la realización de las tareas, de otra forma también intentamos entender conceptos nuevos de marketing o programación, como lo puede ser el uso de los repositorios y su funcionamiento, en la parte de requerimientos sirvió para saber implementar qué herramientas serían vitales para el funcionamiento óptimo de la app
 
 
 
-### Comprensión lectora
+#### Comprensión lectora
 Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de poder procesar la información escrita, pero también es necesaria para poder expresarla en algún documento, esta cualidad es necesaria para el desarrollo de un proyecto pues el plasmar las ideas y mostrar los avances en un escrito, se requiere de un buen nivel de redacción y sintaxis, un buen uso del léxico y la capacidad de poder resumir la información de textos o manuales, generalmente se suele ejercer sólo la resolución de problemas, sin embargo al momento de consultar información de alguna lectura, requerimos de la capacidad de interpretar, entender y expresar un escrito. (p. 65)
 
 **Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
 
 
-## Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+#### Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 La mayoría de problemas en un proyecto de software se debe a la mala coordinación del manejo de los requerimientos esto se debe ya que hay una mala comunicación entre usuario y desarrollador, siendo mayormente que el cliente no sepa lo que quiere o lo que realmente necesita, es por eso que para facilitar más esta validación de necesidades se usan las especificaciones de casos de uso.
 
@@ -53,11 +53,11 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 
 
-## Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+#### Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
-### Interfaces usuario
+#### Interfaces usuario
 
-### Modelo de objeto de interfaz
+#### Modelo de objeto de interfaz
 
 **1. Elaboración del lenguaje de patrones de interacción:**
 
@@ -80,7 +80,7 @@ Dependiendo de cómo se expresan las soluciones en los patrones de interacción:
 - Si las soluciones se expresan gráficamente con un diseño de interfaz utilizando el lenguaje de implementación del producto final, se considera prácticamente elaborado un prototipo de alta fidelidad.
 
 
-### Modelo SSOA
+#### Modelo SSOA
 
 De acuerdo Schneiderman, B.,  El modelo Sintactico-semantico (SSOA) proporciona diferentes formas en las que un usuario pueda interactuar con un sistema. La diferencia entre las sintaxis y semántica se originó a través de la definición de compiladores separando la parte del análisis sintáctico siendo la parte del proceso de entrada de texto/comando de la parte semántica  siendo el proceso de interpretación. Los diseñadores igualmente pueden usar un modelo de sintáctico-semántico de acuerdo al conocimiento del usuario siendo el conocimiento sintáctico la comprensión de los detalles de los usos de los dispositivos, mientras que el semántico abarca información relacionada con la aplicación como el uso general de los sistemas interactivos.  
 
@@ -93,9 +93,9 @@ El diseñador de la interfaz ajusta el modelo del usuario y los aspectos de dise
 En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos y beneficios. Puede surgir nueva información desconocida en pasos anteriores, afectando las decisiones de diseño. Adelantarse a las etapas siguientes, investigando aspectos como hardware y software, resulta útil para determinar los costos y accesibilidad del diseño. En última instancia, el proceso del diseñador es iterativo, refinando los pasos actuales y pasados, e incorporando conocimientos de etapas futuras que influyen en las decisiones actuales.
 
 
-## Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+#### Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
-### Métodos de prototipos evolutivos
+#### Métodos de prototipos evolutivos
 
 Un modelo el cual permita la inclusión de pruebas constantes es el modelo de prototipos evolutivos, pues la UNAM (2012) define a este proceso como “la creación de una implementación parcial de un sistema, para el propósito explícito de aprender sobre los requerimientos del sistema”. Los prototipos se empiezan a crear a partir de la segunda fase principal del modelo y se busca crearlos de la manera más rápida posible, para después presentarlos a los clientes o representantes, los cuales lo probarán y retroalimentarán, devolviendo los errores que encuentren y  posteriormente el equipo desarrollador corrija estos errores para nuevamente presentar hasta haber cubierto los puntos débiles o fallas totales del sistema. 
 En su libro electrónico “Metodologías y Procesos de Análisis de Software” la UNAM (2012) describe el proceso del modelo en 5 fases principales:
@@ -110,11 +110,11 @@ En su libro electrónico “Metodologías y Procesos de Análisis de Software”
 
 
 
-## Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
+#### Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
 Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
 
-### Definiciones
+#### Definiciones
 
 **Seguridad de aplicaciones:** (AppSec) son los procesos, prácticas y herramientas que se utilizan para identificar, reparar y proteger contra vulnerabilidades en las aplicaciones, durante todo el ciclo de vida de desarrollo de software (SDLC). La seguridad de las aplicaciones implica una amplia gama de herramientas y metodologías, pero todas tienen el mismo objetivo: identificar debilidades y vulnerabilidades y corregirlas antes de que puedan ser explotadas. (Synopsis, s.f.).
 
@@ -141,7 +141,7 @@ Vemos pertinente documentar nuestra reflexión con información puntual obtenida
  
 *En IS, la security del código previene ataques.* (Foster S. 2020).
 
-### Competencias
+#### Competencias
 
 #### Ingeniería de software incluye seguridad
 Una cuestión a considerar por el estudiante de ingeniería de software, es si su disciplina incluye el dominio de competencias relacionadas a la seguridad. Como hemos mencionado anteriormente, la  ciberseguridad ya ha sido establecida como una disciplina por sí misma; por tanto, ¿Es necesario que el estudiante/profesionista de IS sea competente en eso? ¿Qué tan competente es mínimamente necesario que sea para poder desarrollar software y aplicaciones seguras? A la primera pregunta, podemos inferir que sí, es necesario que el desarrollador de software domine algo de seguridad de aplicaciones, pero ¿Qué tanto? En busca de información que conteste a la pregunta, vamos a los reportes de las asociaciones con autoridad sobre el tema, que han estandarizado definiciones e incluso competencias mínimas. En el reporte de IEEE-CS con ACM (2020), en la definición de ingeniería de software como disciplina se enuncia: *El fuerte enfoque de la ingeniería de software es sobre el diseño de sistemas de software fiables, dignos de confianza, seguros y utilizables. Los ingenieros a menudo se aplican a sistemas a gran escala con alta confiabilidad y requisitos de seguridad.* (p.29). La definición menciona a la seguridad como una característica que debe tener el producto desarrollado por el ingeniero de software.
