@@ -201,7 +201,7 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 **Solución:** Para evitar este problema, el equipo del proyecto se planteó los requerimientos y funciones generales para la aplicación, y al momento de ir desarrollando el proyecto, fuimos planteando nuevos requerimientos y nuevas herramientas. 
 
-### Metodologías ágiles, principios de agilidad por metodología, y cómo se implementaría en nuestro proyecto:
+#### Metodologías ágiles, principios de agilidad por metodología, y cómo se implementaría en nuestro proyecto:
 
 **Crystal Clear:** Crystal es una metodología en la cual se establecen códigos de color como parte de la definición de la complejidad de la misma, si es más oscuro entonces el método es más pesado; cuánto más crítico es el sistema, más rigor se necesita. Además, crystal sugiere que se defina un color para cada proyecto en función de su criticidad y tamaño. No existe una metodología crystal en general, sino existe una metodología crystal para cada tipo de proyecto. (Rivadeneira, 2012).
 
