@@ -278,7 +278,7 @@ El segundo objetivo es potenciar al máximo el trabajo en grupo. Tanto los jefes
   
  La programación extrema se engloba en doce principios de agilidad básicos, los cuales a su vez se agrupan en cuatro categorías grandes, entre ellas se pueden mencionar:
 
-- Retroalimentación a Escala Fina, en esta fase se encuentran diversos principios como los de realización de pruebas, proceso de - planificación, el cliente en el sitio y programación en parejas.
+- Retroalimentación a Escala Fina, en esta fase se encuentran diversos principios como los de realización de pruebas, proceso de planificación, el cliente en el sitio y programación en parejas.
 - Proceso Continuo en lugar de por lotes, permite la integración continua, refactorización (Evaluar el diseño del sistema a lo largo de todo el proyecto y codificar si es necesario) y entregas pequeñas.
 - Entendimiento compartido, en esta categoría se definen criterios como el de crear un diseño fácil, las tarjetas CRC (Clase, Responsabilidad y Colaboración) y la creación de la metáfora del sistema o historia completa.
 - Bienestar del programador, se rige por la filosofía que un programador cansado, exhausto crea código de mala calidad, por eso se recomienda que los desarrolladores tengan 40 horas de trabajo a la semana y muy pocas horas extras de trabajo.
