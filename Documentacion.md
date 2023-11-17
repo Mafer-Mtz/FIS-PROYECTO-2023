@@ -288,7 +288,7 @@ El segundo objetivo es potenciar al máximo el trabajo en grupo. Tanto los jefes
 - Retroalimentación continua: Realización frecuente de pruebas y obtención de retroalimentación del cliente.
 - Entregas pequeñas: El proyecto se divide en entregas cortas y frecuentes de software funcionando.
 - Reunión diaria de equipo:Reuniones diarias para coordinación y solución de problemas.
-- 
+  
 **Ventajas y desventajas de utilizar la metodología Programación extrema (XP):**
 
 **Ventajas:**
