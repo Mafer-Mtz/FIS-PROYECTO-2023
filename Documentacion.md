@@ -174,7 +174,38 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 ---
 # Unidad 3
----
+#### Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de
+software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara
+posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
+
+**1. Individuos e interacciones sobre procesos y herramientas:**
+
+**Posible conflicto:** El empleo de herramientas o procesos que dicen facilitar el desarrollo del producto, a pesar de no saber usarlas o no estar bien informado acerca de su funcionalidad y nada más utilizarlos por ser “prácticos”. Esto puede perjudicar en la documentación y organización del producto.
+
+**Solución:** Informarse acerca de los métodos y herramientas a utilizar, para poder escoger los que más convenien de acuerdo al equipo de trabajo, el producto a elaborar y muchos otros factores que pueden presentarse a la hora del proceso. 
+
+**2. Software funcionando sobre documentación extensa:**
+
+**Posible conflicto:** Elaboración de manera excesiva de documentación para cosas que son innecesarias o detallar demás en cada parte de la documentación siendo muy específicos hasta el punto de hacer una documentación exhaustiva.  
+
+**Solución:** Documentar solo lo necesario y no entrar en detalles que pueden resultar innecesarios hasta cierto punto, y reducir la documentación a lo mínimo indispensable. 
+
+**3. Colaboración con el cliente sobre negociación contractual:**
+
+**Posible conflicto:** El no entender lo que el cliente/ usuario necesita, querer hacer todo sin ser objetivos o realizar cambios en el producto sin pasar por la aprobación del cliente. 
+
+**Solución:** Establecer reuniones constantes con los clientes para comprender y validar los requisitos, para saber si se está logrando el objetivo o la visualización que el cliente tiene acerca del producto. En este caso nuestros clientes son los usuarios, así que  se pueden lanzar pruebas para comprobar la funcionalidad de la app o inclusive encuestas, trabajo de campo,etc. Para averiguar de manera más certera la fidelidad de lo que elaboramos. 
+
+**4. Responder a cambios sobre seguir un plan:**
+
+**Posible conflicto:** No realizar los requerimientos más óptimos, y al realizar los wireframes darse cuenta que las herramientas priorizadas no eran tan importantes 
+
+**Solución:** Para evitar este problema, el equipo del proyecto se planteó los requerimientos y funciones generales para la aplicación, y al momento de ir desarrollando el proyecto, fuimos planteando nuevos requerimientos y nuevas herramientas. 
+
+
+
+
+
 # Referencias:
 
 ACM y IEEE-CS (2020). Computing Curricula 2020: Paradigms for Global Computing Education. https://dl.acm.org/doi/book/10.1145/3467967
