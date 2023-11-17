@@ -4,7 +4,7 @@ Utilizando referencias válidas (incluirlas como parte de la documentación) rea
 ---
 # Unidad 2
 
-#### Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+### Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos. Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 #### Comunicación: 
 La comunicación es importante a la hora del desarrollo de un proyecto, pues la creatividad se ve expresada mediante el uso correcto del lenguaje, desde los colegas o compañeros de equipo al momento de discutir el funcionamiento de un programa, o la buena comunicación que se debe mantener con el cliente para convencerlo de llevar a cabo el proyecto. Es una herramienta necesaria para un ingeniero de carácter multidisciplinario, permitiendo gestionar bien la organización del equipo, simplificar el lenguaje de comunicación (expresar ideas complejas en palabras simples), por otra parte, el dominio de algún idioma externo a nuestra lengua nativa como lo puede ser el inglés, puesto que la mayoría de palabras de marketing o términos de programación se encuentran en este idioma. (Chávez y Carrillo, 2005, p.9).
@@ -26,7 +26,7 @@ Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de
 **Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
 
 
-#### Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+### Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 La mayoría de problemas en un proyecto de software se debe a la mala coordinación del manejo de los requerimientos esto se debe ya que hay una mala comunicación entre usuario y desarrollador, siendo mayormente que el cliente no sepa lo que quiere o lo que realmente necesita, es por eso que para facilitar más esta validación de necesidades se usan las especificaciones de casos de uso.
 
@@ -53,7 +53,7 @@ Un ejemplo de las historias de usuario podría ser en la parte del registro:
 
 
 
-#### Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+### Selecciona un producto resultante de la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos). Explica de forma clara y sintética algún método asociado al producto resultante. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 #### Interfaces usuario
 
@@ -93,7 +93,7 @@ El diseñador de la interfaz ajusta el modelo del usuario y los aspectos de dise
 En cada paso, se revisa, rediseña y reevalúa la interfaz, considerando costos y beneficios. Puede surgir nueva información desconocida en pasos anteriores, afectando las decisiones de diseño. Adelantarse a las etapas siguientes, investigando aspectos como hardware y software, resulta útil para determinar los costos y accesibilidad del diseño. En última instancia, el proceso del diseñador es iterativo, refinando los pasos actuales y pasados, e incorporando conocimientos de etapas futuras que influyen en las decisiones actuales.
 
 
-#### Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
+### Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.
 
 #### Métodos de prototipos evolutivos
 
@@ -110,7 +110,7 @@ En su libro electrónico “Metodologías y Procesos de Análisis de Software”
 
 
 
-#### Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
+### Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
 
 Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
 
@@ -175,7 +175,7 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 ---
 # Unidad 3
-#### Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil desoftware", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
+### Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil desoftware", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
 
 **1. Individuos e interacciones sobre procesos y herramientas:**
 
@@ -201,7 +201,7 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 **Solución:** Para evitar este problema, el equipo del proyecto se planteó los requerimientos y funciones generales para la aplicación, y al momento de ir desarrollando el proyecto, fuimos planteando nuevos requerimientos y nuevas herramientas. 
 
-#### Metodologías ágiles, principios de agilidad por metodología, y cómo se implementaría en nuestro proyecto:
+### Metodologías ágiles, principios de agilidad por metodología, y cómo se implementaría en nuestro proyecto:
 
 **Crystal Clear:** Crystal es una metodología en la cual se establecen códigos de color como parte de la definición de la complejidad de la misma, si es más oscuro entonces el método es más pesado; cuánto más crítico es el sistema, más rigor se necesita. Además, crystal sugiere que se defina un color para cada proyecto en función de su criticidad y tamaño. No existe una metodología crystal en general, sino existe una metodología crystal para cada tipo de proyecto. (Rivadeneira, 2012).
 
