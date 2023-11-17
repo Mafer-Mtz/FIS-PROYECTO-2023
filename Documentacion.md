@@ -174,9 +174,7 @@ Podemos notar que dichas competencias, como es de esperarse, de alguna forma son
 
 ---
 # Unidad 3
-#### Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de
-software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara
-posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
+#### Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil desoftware", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.
 
 **1. Individuos e interacciones sobre procesos y herramientas:**
 
