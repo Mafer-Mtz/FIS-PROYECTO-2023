@@ -18,9 +18,12 @@ Según Zepeda-Hurtado, et. al (2019) esta cualidad ayuda a entender conceptos, l
 Según Zepeda-Hurtado, et. al. (2019) La comprensión lectora es la capacidad de poder procesar la información escrita, pero también es necesaria para poder expresarla en algún documento, esta cualidad es necesaria para el desarrollo de un proyecto pues el plasmar las ideas y mostrar los avances en un escrito, se requiere de un buen nivel de redacción y sintaxis, un buen uso del léxico y la capacidad de poder resumir la información de textos o manuales, generalmente se suele ejercer sólo la resolución de problemas, sin embargo al momento de consultar información de alguna lectura, requerimos de la capacidad de interpretar, entender y expresar un escrito. (p. 65)
 
 
+
+
+**Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
+
+
 Chaves, A. & Universidad de Costa Rica. (2005). La ingeniería de requerimientos y su importancia en el desarrollo de proyectos de software. InterSedes: Revista de las Sedes Regionales, VI(10), 2215-2458. https://www.redalyc.org/pdf/666/66612870011.pdf
 
 Hurtado, Z., Elena, M., Espinosa, C., Oliver, E., Benguría, R., & Instituto Politécnico Nacional. (2019). El desarrollo de habilidades blandas en la formación de ingenieros. Científica, 23(1), 1665-0654. https://www.redalyc.org/journal/614/61458265007/61458265007.pdf 
 
-
-**Ejemplo:** Para el desarrollo del proyecto tuvimos que desarrollar nuestra capacidad lectora para poder entender y comprender las diferentes definiciones, poder expresar nuestros requerimientos y que queden claros sus funcionamientos, con el objetivo de que nuestras ideas e indicaciones sean precisas, y lleguen a la comprensión del usuario
