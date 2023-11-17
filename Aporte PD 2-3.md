@@ -1,0 +1,72 @@
+### Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias míninas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.
+
+Vemos pertinente documentar nuestra reflexión con información puntual obtenida de autoridades sobre el tema, como lo es el Instituto de Ingenieros Eléctricos y Electrónicos. Sociedad de computación (IEEE-CS)  y la  Asociación de Maquinaria de Computación (ACM) . Asimismo, hemos rescatado matices importantes: la relación entre habilidades, conocimientos, y competencias; safety y security; o Ingeniería de software y ciberseguridad como disciplinas separadas. Nuestro escrito, que en gran parte es una investigación, consta de 2 secciones; en las definiciones, la argumentación es menor o inexistente. Nos apoyamos en ellas para introducir con propiedad conceptos posteriormente tratados. Dicha sección enriquece el trabajo para un posterior repaso. 
+
+#### Definiciones
+
+**Seguridad de aplicaciones:** (AppSec) son los procesos, prácticas y herramientas que se utilizan para identificar, reparar y proteger contra vulnerabilidades en las aplicaciones, durante todo el ciclo de vida de desarrollo de software (SDLC). La seguridad de las aplicaciones implica una amplia gama de herramientas y metodologías, pero todas tienen el mismo objetivo: identificar debilidades y vulnerabilidades y corregirlas antes de que puedan ser explotadas. (Synopsis, s.f.).
+
+**Ingeniería de software:** (IS) es una disciplina de ingeniería que se centra en el desarrollo y uso de métodos rigurosos para diseñar y construir artefactos de software que realizarán de manera confiable tareas específicas. (ACM y IEEE-CS, 2020, p.29).
+
+**Ciberseguridad:** es el área relacionada con la informática que se enfoca en la protección de la infraestructura computacional y todo lo vinculado con la misma, y especialmente la información contenida en una computadora o circulante a través de las redes de computadoras. Es un campo de estudio altamente interdisciplinario. (ACM y IEEE-CS, 2020, p.27).
+
+*En el 2015, La ANIEI (Asociación Nacional de Instituciones de Educación en Tecnologías de Información) la reconoció como disciplina independiente* (Rodriguez et al, p.3).
+
+
+**Competencia:** constituye una perspectiva ampliada de la educación que aumenta el conocimiento (saber qué) con su hábil aplicación (saber cómo), motivado por un propósito (saber por qué) para realizar una tarea, un resultado de valor. 
+
+*El entrelazamiento de las dimensiones de la competencia (conocimientos, habilidades y disposiciones) ofrece un vocabulario completo con el cual describir un plan de estudios que incluya los objetivos de aprendizaje naturales para el profesor, el estudiante y los respectivos profesión a la que la empresa educativa aspira a servir.* (ACM y IEEE-CS, 2020,  p.79).
+
+**Conocimiento:** (como el conjunto de conocimientos). Información aprendida sobre un área del saber. (ACM y IEEE-CS, 2020, p.79).
+
+**Habilidad:** se define como  el conocimiento aplicado en situaciones y entornos, con un nivel particular de competencia necesaria para una práctica exitosa. La habilidad es el conocimiento aplicado hábilmente. (ACM y IEEE-CS, 2020, p.79).
+
+**Safety:** se refiere a estar protegido de quien causa daño. Es la condición de estar seguro contra amenazas tanto intencionadas como no intencionadas. (TFT, 2020).
+
+*En IS, la safety del código garantiza la confiabilidad.* (Foster S. 2020).
+
+**Security:** sugiere proteger a algo contra actividades criminales externas o amenazas que puedan inducir daño. El término se centra en los factores externos deliberados que tienen como objetivo causar problemas. (TFT, 2020).
+ 
+*En IS, la security del código previene ataques.* (Foster S. 2020).
+
+#### Competencias
+
+#### Ingeniería de software incluye seguridad
+Una cuestión a considerar por el estudiante de ingeniería de software, es si su disciplina incluye el dominio de competencias relacionadas a la seguridad. Como hemos mencionado anteriormente, la  ciberseguridad ya ha sido establecida como una disciplina por sí misma; por tanto, ¿Es necesario que el estudiante/profesionista de IS sea competente en eso? ¿Qué tan competente es mínimamente necesario que sea para poder desarrollar software y aplicaciones seguras? A la primera pregunta, podemos inferir que sí, es necesario que el desarrollador de software domine algo de seguridad de aplicaciones, pero ¿Qué tanto? En busca de información que conteste a la pregunta, vamos a los reportes de las asociaciones con autoridad sobre el tema, que han estandarizado definiciones e incluso competencias mínimas. En el reporte de IEEE-CS con ACM (2020), en la definición de ingeniería de software como disciplina se enuncia: *El fuerte enfoque de la ingeniería de software es sobre el diseño de sistemas de software fiables, dignos de confianza, seguros y utilizables. Los ingenieros a menudo se aplican a sistemas a gran escala con alta confiabilidad y requisitos de seguridad.* (p.29). La definición menciona a la seguridad como una característica que debe tener el producto desarrollado por el ingeniero de software.
+
+La lista de las competencias
+Para conocer las competencias que el ingeniero de software debe tener relacionadas a la seguridad, podemos consultar el reporte conjunto de ANIEI y CONAIC (2017). Según dichas asociaciones, una competencia que el ingeniero de software debe tener es: *Establece mecanismos de seguridad. Crea o propone métodos y estrategias para evaluar la seguridad y la selección de los criterios que eviten vulnerabilidades en seguridad del software.* (p.5).
+.
+Podemos comprobar que dichas asociaciones consideran la seguridad como una competencia que el Ingeniero de software debe dominar. No amplían más acerca de las competencias de seguridad en su informe del 2017, sin embargo, podemos estar seguros que la seguridad está considerada como una competencia mínima, fundamental, que sin duda un egresado del nivel licenciatura debe tener.
+El IEEE-CS y ACM (2020) son más específicos. Incluyen 11 competencias que determina como indispensables específicamente en IS:
+
+#### Protección (safety) del software
+1. Describir las principales actividades relacionadas con el desarrollo de sistemas de software, que involucran preocupaciones de seguridad (actividades relacionadas a requerimientos, diseño, construcción y calidad).
+2. Crear y verificar listas preliminares de peligros; realizar análisis de peligros y riesgos, identificar requisitos de seguridad.
+3. Implementar y verificar soluciones de diseño, utilizando prácticas seguras de diseño y codificación, para garantizar que se mitiguen los peligros, y se cumplan los requisitos de seguridad.
+4. Ser consciente de las consecuencias del desarrollo de software inseguro, es decir, el efecto negativo en quienes usan o reciben servicios del software.
+
+#### Seguridad (security) del software
+1. Aplicar el modelo de ciclo de vida de seguridad seleccionado del proyecto (por ejemplo, Microsoft SDL), como miembro colaborador de un equipo de proyecto.
+3. Identificar los requisitos de seguridad aplicando el método de requisitos de seguridad seleccionado, como miembro contribuyente de un equipo de proyecto de software.
+4. Incorporar requisitos de seguridad en la arquitectura, el diseño detallado y de alto nivel, como miembro contribuyente de un equipo de proyecto de software. 
+5. Desarrollar software utilizando estándares de codificación segura.
+6. Ejecuta casos de prueba específicos de seguridad.
+7. Adherirse al proceso de desarrollo de software del proyecto, como miembro colaborador de un equipo de proyecto de software.
+8. Desarrollar software que respalde los objetivos de calidad del proyecto y cumpla con los requisitos de calidad. (p. 120).
+
+Podemos notar que dichas competencias, como es de esperarse, de alguna forma son aplicables al desarrollo de aplicaciones seguras. Por tanto, se espera que todo Ingeniero en software las domine. Probablemente al trabajar en un desarrollo complemente sus habilidades con la de ingenieros de otras disciplinas, pero se espera que él esté capacitado en seguridad. 
+
+# Referencias:
+
+Synopsis (s.f.). Application security. iembre. Recuperado el 14 de noviembre, 2023, de https://www.synopsys.com/glossary/what-is-application-security.html
+
+ANIEI Y CONAIC. ( 2017). Competencias transversales y específicas de los perfiles que evalúa CONAIC.
+
+ACM y IEEE-CS  (2020). Computing Curricula 2020: Paradigms for Global Computing Education. https://dl.acm.org/doi/book/10.1145/3467967
+
+G. Rodríguez-Abitia, M. de Lourdes Sánchez-Guerrero, S. Martínez-Pérez y N. Aguas-García. (2022). "Competencies of Information Technology Professionals in Society 5.0, en IEEE Revista Iberoamericana de Tecnologías del Aprendizaje, vol. 17, no. 4, pp. 343-350, Nov. 2022, doi: 10.1109/RITA.2022.3217136.
+
+TFT. (2020). Software Safety Vs Security: What’s the difference? Recuperado el 14 de noviembre, 2023, https://www.tftus.com/blog/software-safety-vs-security-whats-different
+
+Foster, S. (2020). Software safety vs. Security: What’s the difference between safety and security? Recuperado el 14 de noviembre, 2023, https://www.perforce.com/blog/kw/software-safety-vs-security-whats-different
