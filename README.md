@@ -9,7 +9,7 @@
 
 **Scrum Master :** Juan Che
 
-**Equipo de Desarollo:** 
+<span style="color: #00bcd4;">**Equipo de Desarollo:** </span>
 
 -Irad Canche
 
